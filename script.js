@@ -114,7 +114,7 @@ function updateLog() {
   document.getElementById('log-words').textContent = words;
 }
 
-function handleChar(char) {
+function handleKey(key) {
   if (!started) return;
 
   const target = currentQ.english;
@@ -122,8 +122,24 @@ function handleChar(char) {
 
   const expected = target[typed.length];
 
-  if (char === expected) {
-    typed += char;
+  if (expected === ' ') {
+    if (key === ' ') {
+      typed += ' ';
+      playTone(1500, 0.015);
+      renderSentence();
+      updateStats();
+      return;
+    }
+
+    typed += ' ';
+  } else {
+    if (key === ' ') return;
+  }
+
+  const newExpected = target[typed.length];
+
+  if (key === newExpected) {
+    typed += key;
     playTone(1500, 0.015);
 
     if (typed === target) finishQuestion();
@@ -171,14 +187,12 @@ document.getElementById('click-to-start').addEventListener('click', () => {
   startGame();
 });
 
-document.getElementById('hidden-input').addEventListener('input', (e) => {
-  const val = e.target.value;
-  if (!val) return;
-
-  const char = val[val.length - 1];
-  e.target.value = "";
-
-  handleChar(char);
+document.getElementById('hidden-input').addEventListener('keydown', (e) => {
+  if (!started) return;
+  const key = e.key;
+  if (key.length !== 1 && key !== ' ') return;
+  e.preventDefault();
+  handleKey(key);
 });
 
 document.getElementById('app').addEventListener('click', () => {

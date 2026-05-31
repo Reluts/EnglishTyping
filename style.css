@@ -170,7 +170,7 @@ body,
 .char-current::after {
   content: "";
   position: absolute;
-  left: -2px;
+  right: -2px;
   width: 2px;
   height: 1em;
   background: #fff;
