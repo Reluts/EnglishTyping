@@ -165,6 +165,12 @@ function startGame() {
   startTime = Date.now();
 }
 
+
+document.getElementById('click-to-start').addEventListener('click', () => {
+  audioCtx.resume();
+  startGame();
+});
+
 document.getElementById('hidden-input').addEventListener('input', (e) => {
   const val = e.target.value;
   if (!val) return;
@@ -177,15 +183,6 @@ document.getElementById('hidden-input').addEventListener('input', (e) => {
 
 document.getElementById('app').addEventListener('click', () => {
   if (started) document.getElementById('hidden-input').focus();
-});
-
-window.addEventListener('load', async () => {
-  await loadQuestions();
-
-  audioCtx.resume();
-  startGame();
-
-  document.getElementById('hidden-input').focus();
 });
 
 loadQuestions();
