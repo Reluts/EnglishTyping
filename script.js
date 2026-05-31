@@ -118,37 +118,39 @@ function handleKey(key) {
   if (!started) return;
 
   const target = currentQ.english;
-  if (typed.length >= target.length) return;
-
   const expected = target[typed.length];
 
+  // スペース処理
   if (expected === ' ') {
-    if (key === ' ') {
+    if (key !== ' ') {
+      // スペース無視せず「スキップ」扱いにする
+      typed += ' ';
+    } else {
       typed += ' ';
       playTone(1500, 0.015);
       renderSentence();
       updateStats();
       return;
     }
-
-    typed += ' ';
   } else {
     if (key === ' ') return;
   }
 
-  const newExpected = target[typed.length];
+  // ここで必ず1文字だけ処理
+  const actualExpected = target[typed.length];
 
-  if (key === newExpected) {
+  if (key === actualExpected) {
     typed += key;
     playTone(1500, 0.015);
-
-    if (typed === target) finishQuestion();
   } else {
     playTone(250, 0.04);
     combo = 0;
     mistakes++;
     mistakeFlashUntil = Date.now() + 250;
+    typed += key; // ←ズレ防止で「進める」
   }
+
+  if (typed === target) finishQuestion();
 
   renderSentence();
   updateStats();
