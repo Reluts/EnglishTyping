@@ -1,4 +1,4 @@
-let QUESTIONS = []; // ← 外から読み込む
+let QUESTIONS = [];
 
 let typed = "", score = 0, combo = 0, mistakes = 0, completedQ = 0, completedChars = 0;
 let history = [], recentQ = [];
@@ -8,7 +8,6 @@ let currentQ, started = false;
 
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 
-/* ===== 音系そのまま ===== */
 function playTone(freq, dur, type = 'square') {
   try {
     const osc = audioCtx.createOscillator();
@@ -36,7 +35,6 @@ function playClear() {
   } catch(e) {}
 }
 
-/* ===== JSON読み込み追加 ===== */
 async function loadQuestions() {
   const res = await fetch('./questions.json');
   QUESTIONS = await res.json();
@@ -54,8 +52,6 @@ function chooseQuestion() {
   if (recentQ.length > 3) recentQ.shift();
   return q;
 }
-
-/* ===== ここから下は元のまま ===== */
 
 function renderSentence() {
   const target = currentQ.english;
@@ -180,7 +176,6 @@ function startGame() {
   startTime = Date.now();
 }
 
-/* ===== イベント ===== */
 
 document.getElementById('click-to-start').addEventListener('click', () => {
   audioCtx.resume();
@@ -201,5 +196,4 @@ document.getElementById('app').addEventListener('click', () => {
   if (started) document.getElementById('hidden-input').focus();
 });
 
-/* ===== 初期化 ===== */
 loadQuestions();
