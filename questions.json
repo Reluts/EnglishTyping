@@ -1,1942 +1,1011 @@
 [
+  # --- Club / Rugby / South Africa ---
   {
-    "english": "I like apples.",
-    "japanese": "私はりんごが好きです。",
-    "words": {
-      "i": "私",
-      "like": "好き",
-      "apples": "りんご"
-    }
-  },
-  {
-    "english": "She goes to school every day.",
-    "japanese": "彼女は毎日学校へ行きます。",
-    "words": {
-      "she": "彼女",
-      "goes": "行く",
-      "school": "学校",
-      "every": "毎",
-      "day": "日"
-    }
-  },
-  {
-    "english": "We play soccer after school.",
-    "japanese": "私たちは放課後サッカーをします。",
-    "words": {
-      "we": "私たち",
-      "play": "する・遊ぶ",
-      "soccer": "サッカー",
-      "after": "～の後",
-      "school": "学校"
-    }
-  },
-  {
-    "english": "He has two cats and one dog.",
-    "japanese": "彼は猫が2匹と犬が1匹います。",
-    "words": {
-      "he": "彼",
-      "has": "持っている",
-      "two": "2",
-      "cats": "猫",
-      "one": "1",
-      "dog": "犬"
-    }
-  },
-  {
-    "english": "My mother cooks dinner every evening.",
-    "japanese": "私の母は毎晩夕食を作ります。",
-    "words": {
-      "my": "私の",
-      "mother": "母",
-      "cooks": "料理する",
-      "dinner": "夕食",
-      "every": "毎",
-      "evening": "夕方・晩"
-    }
-  },
-  {
-    "english": "They live in Tokyo.",
-    "japanese": "彼らは東京に住んでいます。",
-    "words": {
-      "they": "彼ら",
-      "live": "住む",
-      "in": "～に",
-      "Tokyo": "東京"
-    }
-  },
-  {
-    "english": "I can swim very well.",
-    "japanese": "私はとても上手に泳げます。",
-    "words": {
-      "can": "～できる",
-      "swim": "泳ぐ",
-      "very": "とても",
-      "well": "上手に"
-    }
-  },
-  {
-    "english": "Do you like music?",
-    "japanese": "あなたは音楽が好きですか？",
-    "words": {
-      "do": "（疑問文）",
-      "you": "あなた",
-      "like": "好き",
-      "music": "音楽"
-    }
-  },
-  {
-    "english": "It is sunny today.",
-    "japanese": "今日は晴れています。",
-    "words": {
-      "it": "（天気の主語）",
-      "is": "～です",
-      "sunny": "晴れた",
-      "today": "今日"
-    }
-  },
-  {
-    "english": "I study English every morning.",
-    "japanese": "私は毎朝英語を勉強します。",
-    "words": {
-      "study": "勉強する",
-      "English": "英語",
-      "every": "毎",
-      "morning": "朝"
-    }
-  },
-  {
-    "english": "She is reading a book now.",
-    "japanese": "彼女は今、本を読んでいます。",
-    "words": {
-      "is": "～している（進行形）",
-      "reading": "読んでいる",
-      "book": "本",
-      "now": "今"
-    }
-  },
-  {
-    "english": "We went to the park yesterday.",
-    "japanese": "私たちは昨日公園へ行きました。",
-    "words": {
-      "went": "行った（goの過去形）",
-      "park": "公園",
-      "yesterday": "昨日"
-    }
-  },
-  {
-    "english": "He doesn't eat meat.",
-    "japanese": "彼は肉を食べません。",
-    "words": {
-      "doesn't": "～しない",
-      "eat": "食べる",
-      "meat": "肉"
-    }
-  },
-  {
-    "english": "What time do you wake up?",
-    "japanese": "あなたは何時に起きますか？",
-    "words": {
-      "what": "何",
-      "time": "時間・時刻",
-      "wake": "目覚める",
-      "up": "起きる（wake up）"
-    }
-  },
-  {
-    "english": "I want to be a doctor in the future.",
-    "japanese": "私は将来医者になりたいです。",
-    "words": {
-      "want": "望む",
-      "to": "～すること",
-      "be": "なる",
-      "doctor": "医者",
-      "future": "将来"
-    }
-  },
-  {
-    "english": "There is a cat on the table.",
-    "japanese": "テーブルの上に猫がいます。",
-    "words": {
-      "there": "（there is～）いる・ある",
-      "cat": "猫",
-      "on": "～の上に",
-      "table": "テーブル"
-    }
-  },
-  {
-    "english": "How many students are in your class?",
-    "japanese": "あなたのクラスには何人の生徒がいますか？",
-    "words": {
-      "how": "どのくらい",
-      "many": "多くの・何人",
-      "students": "生徒たち",
-      "class": "クラス"
-    }
-  },
-  {
-    "english": "Please open the window.",
-    "japanese": "窓を開けてください。",
-    "words": {
-      "please": "どうか・～してください",
-      "open": "開ける",
-      "window": "窓"
-    }
-  },
-  {
-    "english": "I have been to Kyoto twice.",
-    "japanese": "私は京都に2回行ったことがあります。",
-    "words": {
-      "have": "（現在完了形）",
-      "been": "行ったことがある",
-      "Kyoto": "京都",
-      "twice": "2回"
-    }
-  },
-  {
-    "english": "She was born in Osaka.",
-    "japanese": "彼女は大阪で生まれました。",
-    "words": {
-      "was": "（過去形）",
-      "born": "生まれた",
-      "Osaka": "大阪"
-    }
-  },
-  {
-    "english": "This bag is heavier than that one.",
-    "japanese": "このバッグはあのバッグより重いです。",
-    "words": {
-      "bag": "バッグ",
-      "heavier": "より重い",
-      "than": "～より",
-      "that": "あの"
-    }
-  },
-  {
-    "english": "I don't know what to do.",
-    "japanese": "私は何をすべきかわかりません。",
-    "words": {
-      "don't": "～しない",
-      "know": "知る・わかる",
-      "what": "何を",
-      "to": "すること"
-    }
-  },
-  {
-    "english": "He is the tallest boy in our school.",
-    "japanese": "彼は私たちの学校で一番背が高い男の子です。",
-    "words": {
-      "tallest": "最も背が高い",
-      "boy": "男の子",
-      "our": "私たちの"
-    }
-  },
-  {
-    "english": "My favorite subject is math.",
-    "japanese": "私の好きな教科は数学です。",
-    "words": {
-      "favorite": "お気に入りの",
-      "subject": "教科",
-      "math": "数学"
-    }
-  },
-  {
-    "english": "Let's go to the library together.",
-    "japanese": "一緒に図書館へ行きましょう。",
-    "words": {
-      "let's": "～しましょう",
-      "go": "行く",
-      "library": "図書館",
-      "together": "一緒に"
-    }
-  },
-  {
-    "english": "I am looking forward to the summer vacation.",
-    "japanese": "私は夏休みを楽しみにしています。",
-    "words": {
-      "looking": "楽しみにしている（looking forward to）",
-      "forward": "前に・楽しみにして",
-      "summer": "夏",
-      "vacation": "休暇"
-    }
-  },
-  {
-    "english": "Can you help me with my homework?",
-    "japanese": "宿題を手伝ってもらえますか？",
-    "words": {
-      "help": "助ける・手伝う",
-      "homework": "宿題"
-    }
-  },
-  {
-    "english": "It takes about thirty minutes by train.",
-    "japanese": "電車で約30分かかります。",
-    "words": {
-      "takes": "かかる",
-      "about": "約",
-      "thirty": "30",
-      "minutes": "分",
-      "train": "電車"
-    }
-  },
-  {
-    "english": "She speaks English and French.",
-    "japanese": "彼女は英語とフランス語を話します。",
-    "words": {
-      "speaks": "話す",
-      "and": "と・そして",
-      "French": "フランス語"
-    }
-  },
-  {
-    "english": "I have never eaten sushi before.",
-    "japanese": "私は以前に寿司を食べたことがありません。",
-    "words": {
-      "have": "（現在完了形）",
-      "never": "一度も～ない",
-      "eaten": "食べた（eatの過去分詞）",
-      "sushi": "寿司",
-      "before": "以前に"
-    }
-  },
-  {
-    "english": "My father works at a hospital.",
-    "japanese": "私の父は病院で働いています。",
-    "words": {
-      "father": "父",
-      "works": "働く",
-      "hospital": "病院"
-    }
-  },
-  {
-    "english": "The movie was very exciting.",
-    "japanese": "その映画はとてもわくわくしました。",
-    "words": {
-      "movie": "映画",
-      "exciting": "わくわくする・興奮させる"
-    }
-  },
-  {
-    "english": "I will visit my grandparents next week.",
-    "japanese": "私は来週、祖父母を訪ねる予定です。",
-    "words": {
-      "will": "～するつもり（未来）",
-      "visit": "訪問する",
-      "grandparents": "祖父母",
-      "next": "次の",
-      "week": "週"
-    }
-  },
-  {
-    "english": "She told me an interesting story.",
-    "japanese": "彼女は私に面白い話をしてくれました。",
-    "words": {
-      "told": "話した（tellの過去形）",
-      "interesting": "面白い",
-      "story": "話・物語"
-    }
-  },
-  {
-    "english": "The children are playing in the garden.",
-    "japanese": "子供たちは庭で遊んでいます。",
-    "words": {
-      "children": "子供たち",
-      "playing": "遊んでいる",
-      "garden": "庭"
-    }
-  },
-  {
-    "english": "How long have you lived here?",
-    "japanese": "あなたはここにどのくらい住んでいますか？",
-    "words": {
-      "how": "どのくらい",
-      "long": "長く",
-      "lived": "住んだ（liveの過去分詞）",
-      "here": "ここに"
-    }
-  },
-  {
-    "english": "This is the book that I borrowed from the library.",
-    "japanese": "これが私が図書館から借りた本です。",
-    "words": {
-      "this": "これ",
-      "that": "（関係代名詞）",
-      "borrowed": "借りた",
-      "from": "～から"
-    }
-  },
-  {
-    "english": "I think that practice makes perfect.",
-    "japanese": "練習が上達への道だと思います。",
-    "words": {
-      "think": "思う",
-      "practice": "練習",
-      "makes": "作る・する",
-      "perfect": "完璧な"
-    }
-  },
-  {
-    "english": "You should drink more water.",
-    "japanese": "もっと水を飲んだほうがいいですよ。",
-    "words": {
-      "should": "～すべき",
-      "drink": "飲む",
-      "more": "もっと",
-      "water": "水"
-    }
-  },
-  {
-    "english": "The train was late because of the heavy rain.",
-    "japanese": "大雨のため電車が遅れました。",
-    "words": {
-      "late": "遅い・遅れた",
-      "because": "なぜなら",
-      "heavy": "激しい・重い",
-      "rain": "雨"
-    }
-  },
-  {
-    "english": "I enjoyed talking with you.",
-    "japanese": "あなたと話せて楽しかったです。",
-    "words": {
-      "enjoyed": "楽しんだ",
-      "talking": "話すこと",
-      "with": "～と一緒に"
-    }
-  },
-  {
-    "english": "It is important to be kind to others.",
-    "japanese": "他人に親切にすることは大切です。",
-    "words": {
-      "important": "大切な・重要な",
-      "kind": "親切な",
-      "others": "他の人々"
-    }
-  },
-  {
-    "english": "He finished his homework before dinner.",
-    "japanese": "彼は夕食前に宿題を終わらせました。",
-    "words": {
-      "finished": "終えた",
-      "before": "～の前に",
-      "dinner": "夕食"
-    }
-  },
-  {
-    "english": "My sister is interested in cooking.",
-    "japanese": "私の姉は料理に興味があります。",
-    "words": {
-      "sister": "姉・妹",
-      "interested": "興味がある",
-      "cooking": "料理すること"
-    }
-  },
-  {
-    "english": "What did you do last weekend?",
-    "japanese": "先週末は何をしましたか？",
-    "words": {
-      "did": "（過去疑問文）",
-      "last": "先の・最後の",
-      "weekend": "週末"
-    }
-  },
-  {
-    "english": "I got up early this morning.",
-    "japanese": "私は今朝早く起きました。",
-    "words": {
-      "got": "（got up）起きた",
-      "early": "早く",
-      "this": "この・今"
-    }
-  },
-  {
-    "english": "She looks happy today.",
-    "japanese": "彼女は今日幸せそうに見えます。",
-    "words": {
-      "looks": "見える・見る",
-      "happy": "幸せな"
-    }
-  },
-  {
-    "english": "I must finish this report by tomorrow.",
-    "japanese": "明日までにこのレポートを終えなければなりません。",
-    "words": {
-      "must": "～しなければならない",
-      "finish": "終える",
-      "report": "レポート・報告",
-      "by": "～までに",
-      "tomorrow": "明日"
-    }
-  },
-  {
-    "english": "The weather will be cloudy tomorrow.",
-    "japanese": "明日の天気は曇りでしょう。",
-    "words": {
-      "weather": "天気",
-      "cloudy": "曇った"
-    }
-  },
-  {
-    "english": "I am tired because I stayed up late last night.",
-    "japanese": "昨夜遅くまで起きていたので疲れています。",
-    "words": {
-      "tired": "疲れた",
-      "stayed": "いた（stay up）",
-      "late": "遅く",
-      "last": "先の",
-      "night": "夜"
-    }
-  },
-  {
-    "english": "He gave me a present for my birthday.",
-    "japanese": "彼は私の誕生日にプレゼントをくれました。",
-    "words": {
-      "gave": "くれた（giveの過去形）",
-      "present": "プレゼント",
-      "birthday": "誕生日"
-    }
-  },
-  {
-    "english": "The museum opens at nine in the morning.",
-    "japanese": "その博物館は午前9時に開きます。",
-    "words": {
-      "museum": "博物館",
-      "opens": "開く",
-      "nine": "9（時）"
-    }
-  },
-  {
-    "english": "I would like a cup of tea, please.",
-    "japanese": "お茶を一杯いただけますか。",
-    "words": {
-      "would": "（丁寧な依頼）",
-      "cup": "カップ・一杯",
-      "tea": "お茶"
-    }
-  },
-  {
-    "english": "She has been studying French for two years.",
-    "japanese": "彼女は2年間フランス語を勉強しています。",
-    "words": {
-      "has": "（現在完了進行形）",
-      "been": "～してきた",
-      "studying": "勉強している",
-      "years": "年間"
-    }
-  },
-  {
-    "english": "The dog that my uncle has is very cute.",
-    "japanese": "私のおじが飼っている犬はとてもかわいいです。",
-    "words": {
-      "that": "（関係代名詞）",
-      "uncle": "おじ",
-      "cute": "かわいい"
-    }
-  },
-  {
-    "english": "I need some help with this problem.",
-    "japanese": "この問題について少し助けが必要です。",
-    "words": {
-      "need": "必要とする",
-      "some": "少し",
-      "help": "助け・手伝い",
-      "problem": "問題"
-    }
-  },
-  {
-    "english": "We should protect the environment.",
-    "japanese": "私たちは環境を守るべきです。",
-    "words": {
-      "protect": "守る・保護する",
-      "environment": "環境"
-    }
-  },
-  {
-    "english": "I found my keys under the sofa.",
-    "japanese": "ソファの下で鍵を見つけました。",
-    "words": {
-      "found": "見つけた（findの過去形）",
-      "keys": "鍵",
-      "under": "～の下に",
-      "sofa": "ソファ"
-    }
-  },
-  {
-    "english": "She is too tired to run anymore.",
-    "japanese": "彼女は疲れすぎてもう走れません。",
-    "words": {
-      "too": "～すぎる",
-      "tired": "疲れた",
-      "run": "走る",
-      "anymore": "もはや・もう"
-    }
-  },
-  {
-    "english": "What would you like for lunch?",
-    "japanese": "昼食に何が欲しいですか？",
-    "words": {
-      "would": "（丁寧な疑問文）",
-      "like": "好む・欲しい",
-      "lunch": "昼食"
-    }
-  },
-  {
-    "english": "My brother is older than me by three years.",
-    "japanese": "私の兄は私より3歳年上です。",
-    "words": {
-      "brother": "兄・弟",
-      "older": "年上の",
-      "than": "～より",
-      "three": "3"
-    }
-  },
-  {
-    "english": "If it rains tomorrow, we will stay home.",
-    "japanese": "明日雨が降れば、私たちは家にいます。",
-    "words": {
-      "if": "もし",
-      "rains": "雨が降る",
-      "stay": "いる・とどまる",
-      "home": "家"
-    }
-  },
-  {
-    "english": "I like both cats and dogs.",
-    "japanese": "私は猫も犬も好きです。",
-    "words": {
-      "both": "両方",
-      "and": "と・また"
-    }
-  },
-  {
-    "english": "This sandwich tastes delicious.",
-    "japanese": "このサンドイッチはおいしい味がします。",
-    "words": {
-      "sandwich": "サンドイッチ",
-      "tastes": "味がする",
-      "delicious": "おいしい"
-    }
-  },
-  {
-    "english": "She told me not to worry.",
-    "japanese": "彼女は心配しないように言いました。",
-    "words": {
-      "told": "言った（tellの過去形）",
-      "not": "しないように（not to）",
-      "worry": "心配する"
-    }
-  },
-  {
-    "english": "I am proud of what you have done.",
-    "japanese": "あなたがやり遂げたことを誇りに思います。",
-    "words": {
-      "proud": "誇りに思う",
-      "of": "～について",
-      "done": "やった（doの過去分詞）"
-    }
-  },
-  {
-    "english": "He stopped playing video games and started reading.",
-    "japanese": "彼はテレビゲームをやめて読書を始めました。",
-    "words": {
-      "stopped": "やめた",
-      "video": "テレビ・ビデオ",
-      "games": "ゲーム",
-      "started": "始めた",
-      "reading": "読書"
-    }
-  },
-  {
-    "english": "This is the most beautiful park I have ever seen.",
-    "japanese": "ここは私が今まで見た中で最も美しい公園です。",
-    "words": {
-      "most": "最も",
-      "beautiful": "美しい",
-      "ever": "今までに",
-      "seen": "見た（seeの過去分詞）"
-    }
-  },
-  {
-    "english": "She couldn't understand why he was angry.",
-    "japanese": "彼女は彼がなぜ怒っているのか理解できませんでした。",
-    "words": {
-      "couldn't": "できなかった（could not）",
-      "understand": "理解する",
-      "why": "なぜ",
-      "angry": "怒っている"
-    }
-  },
-  {
-    "english": "I try to eat vegetables every day.",
-    "japanese": "私は毎日野菜を食べるようにしています。",
-    "words": {
-      "try": "～しようとする",
-      "eat": "食べる",
-      "vegetables": "野菜"
-    }
-  },
-  {
-    "english": "The concert will start at six o'clock.",
-    "japanese": "コンサートは6時に始まります。",
-    "words": {
-      "concert": "コンサート",
-      "start": "始まる",
-      "six": "6",
-      "o'clock": "時（ちょうど）"
-    }
-  },
-  {
-    "english": "My dream is to travel around the world.",
-    "japanese": "私の夢は世界中を旅することです。",
-    "words": {
-      "dream": "夢",
-      "travel": "旅行する",
-      "around": "～中・まわりを",
-      "world": "世界"
-    }
-  },
-  {
-    "english": "Nobody was in the classroom.",
-    "japanese": "教室には誰もいませんでした。",
-    "words": {
-      "nobody": "誰も～ない",
-      "classroom": "教室"
-    }
-  },
-  {
-    "english": "She has a lot of experience as a nurse.",
-    "japanese": "彼女は看護師としての豊富な経験があります。",
-    "words": {
-      "lot": "たくさんの（a lot of）",
-      "experience": "経験",
-      "nurse": "看護師"
-    }
-  },
-  {
-    "english": "I asked him where he lived.",
-    "japanese": "私は彼にどこに住んでいるか尋ねました。",
-    "words": {
-      "asked": "尋ねた",
-      "where": "どこに",
-      "lived": "住んでいた"
-    }
-  },
-  {
-    "english": "The teacher explained the rule clearly.",
-    "japanese": "先生はそのルールを分かりやすく説明しました。",
-    "words": {
-      "teacher": "先生",
-      "explained": "説明した",
-      "rule": "ルール・規則",
-      "clearly": "明確に・分かりやすく"
-    }
-  },
-  {
-    "english": "How far is it from here to the station?",
-    "japanese": "ここから駅まではどのくらい遠いですか？",
-    "words": {
-      "far": "遠い・距離",
-      "from": "～から",
-      "station": "駅"
-    }
-  },
-  {
-    "english": "The students were excited about the school trip.",
-    "japanese": "生徒たちは修学旅行にわくわくしていました。",
-    "words": {
-      "students": "生徒たち",
-      "excited": "興奮した・わくわくした",
-      "about": "～について",
-      "trip": "旅行"
-    }
-  },
-  {
-    "english": "I am going to meet my friend this afternoon.",
-    "japanese": "私は今日の午後、友達に会う予定です。",
-    "words": {
-      "going": "（be going to）するつもり",
-      "meet": "会う",
-      "friend": "友達",
-      "afternoon": "午後"
-    }
-  },
-  {
-    "english": "The river is not as wide as the sea.",
-    "japanese": "川は海ほど広くはありません。",
-    "words": {
-      "river": "川",
-      "not": "ない",
-      "as": "ほど～（as～as）",
-      "wide": "広い",
-      "sea": "海"
-    }
-  },
-  {
-    "english": "He worked hard so that he could pass the exam.",
-    "japanese": "彼は試験に合格するために一生懸命勉強しました。",
-    "words": {
-      "worked": "働いた",
-      "hard": "一生懸命",
-      "so": "ので・ように（so that）",
-      "pass": "合格する",
-      "exam": "試験"
-    }
-  },
-  {
-    "english": "We use computers at school every week.",
-    "japanese": "私たちは毎週学校でコンピューターを使います。",
-    "words": {
-      "use": "使う",
-      "computers": "コンピューター"
-    }
-  },
-  {
-    "english": "My grandmother makes the best cookies.",
-    "japanese": "私の祖母は一番おいしいクッキーを作ります。",
-    "words": {
-      "grandmother": "祖母",
-      "makes": "作る",
-      "best": "最も良い",
-      "cookies": "クッキー"
-    }
-  },
-  {
-    "english": "The library is between the post office and the bank.",
-    "japanese": "図書館は郵便局と銀行の間にあります。",
-    "words": {
-      "between": "～の間に",
-      "post": "郵便（post office）",
-      "office": "事務所・オフィス",
-      "bank": "銀行"
-    }
-  },
-  {
-    "english": "She promised to call me tomorrow.",
-    "japanese": "彼女は明日電話すると約束しました。",
-    "words": {
-      "promised": "約束した",
-      "call": "電話する"
-    }
-  },
-  {
-    "english": "I am not sure if he will come to the party.",
-    "japanese": "彼がパーティーに来るかどうか確信が持てません。",
-    "words": {
-      "sure": "確かな・確信して",
-      "whether": "かどうか",
-      "party": "パーティー"
-    }
-  },
-  {
-    "english": "The food in this restaurant is always fresh.",
-    "japanese": "このレストランの食べ物はいつも新鮮です。",
-    "words": {
-      "food": "食べ物",
-      "restaurant": "レストラン",
-      "always": "いつも",
-      "fresh": "新鮮な"
-    }
-  },
-  {
-    "english": "Please turn off the lights when you leave.",
-    "japanese": "出るときは電気を消してください。",
-    "words": {
-      "turn": "消す・つける（turn off）",
-      "off": "消して",
-      "lights": "電気・明かり",
-      "leave": "去る・出る"
-    }
-  },
-  {
-    "english": "I wish I could play the piano like her.",
-    "japanese": "彼女のようにピアノが弾けたらいいのに。",
-    "words": {
-      "wish": "願う（～だったらいいのに）",
-      "could": "できたら（仮定法）",
-      "piano": "ピアノ"
-    }
-  },
-  {
-    "english": "The story had a very sad ending.",
-    "japanese": "その物語はとても悲しい結末でした。",
-    "words": {
-      "story": "物語",
-      "had": "あった（haveの過去形）",
-      "sad": "悲しい",
-      "ending": "結末・エンディング"
-    }
-  },
-  {
-    "english": "He has just arrived at the airport.",
-    "japanese": "彼はちょうど空港に着いたところです。",
-    "words": {
-      "just": "ちょうど",
-      "arrived": "到着した",
-      "airport": "空港"
-    }
-  },
-  {
-    "english": "She seemed nervous before the speech.",
-    "japanese": "彼女はスピーチの前に緊張しているようでした。",
-    "words": {
-      "seemed": "～のようだった",
-      "nervous": "緊張した",
-      "before": "～の前に",
-      "speech": "スピーチ・演説"
-    }
-  },
-  {
-    "english": "I would rather stay home than go shopping.",
-    "japanese": "買い物に行くより家にいるほうがいいです。",
-    "words": {
-      "would": "（would rather）むしろ",
-      "rather": "むしろ",
-      "stay": "いる",
-      "shopping": "買い物"
-    }
-  },
-  {
-    "english": "The old man walked slowly along the river.",
-    "japanese": "老人は川沿いをゆっくり歩きました。",
-    "words": {
-      "old": "年老いた",
-      "man": "男性・男の人",
-      "walked": "歩いた",
-      "slowly": "ゆっくりと",
-      "along": "～に沿って"
-    }
-  },
-  {
-    "english": "She doesn't know how to ride a bicycle.",
-    "japanese": "彼女は自転車の乗り方を知りません。",
-    "words": {
-      "how": "どのように",
-      "ride": "乗る",
-      "bicycle": "自転車"
-    }
-  },
-  {
-    "english": "My parents take a walk every Sunday morning.",
-    "japanese": "私の両親は毎週日曜日の朝に散歩します。",
-    "words": {
-      "parents": "両親",
-      "take": "する（take a walk）",
-      "walk": "散歩",
-      "Sunday": "日曜日"
-    }
-  },
-  {
-    "english": "The book was written by a famous author.",
-    "japanese": "その本は有名な作家によって書かれました。",
-    "words": {
-      "written": "書かれた（writeの過去分詞）",
-      "by": "～によって",
-      "famous": "有名な",
-      "author": "作家"
-    }
-  },
-  {
-    "english": "He kept on practicing until he could do it perfectly.",
-    "japanese": "彼は完璧にできるまで練習し続けました。",
-    "words": {
-      "kept": "続けた（keep onの過去形）",
-      "on": "続けて（keep on）",
-      "practicing": "練習している",
-      "until": "～するまで",
-      "perfectly": "完璧に"
-    }
-  },
-  {
-    "english": "There are many kinds of animals in the zoo.",
-    "japanese": "動物園にはたくさんの種類の動物がいます。",
-    "words": {
-      "there": "（there are～）いる・ある",
-      "kinds": "種類",
-      "animals": "動物",
-      "zoo": "動物園"
-    }
-  },
-  {
-    "english": "The problem was more difficult than I expected.",
-    "japanese": "その問題は私が予想していたより難しかったです。",
-    "words": {
-      "more": "より（比較級）",
-      "difficult": "難しい",
-      "expected": "予想した"
-    }
-  },
-  {
-    "english": "She smiled at me when I passed her in the hallway.",
-    "japanese": "廊下で彼女のそばを通ったとき、彼女は私に微笑みかけました。",
-    "words": {
-      "smiled": "微笑んだ",
-      "passed": "通った",
-      "hallway": "廊下"
-    }
-  },
-  {
-    "english": "I am afraid of speaking in front of many people.",
-    "japanese": "私は大勢の人の前で話すのが怖いです。",
-    "words": {
-      "afraid": "怖い・恐れている",
-      "speaking": "話すこと",
-      "front": "前（in front of）",
-      "people": "人々"
-    }
-  },
-  {
-    "english": "We must not waste food.",
-    "japanese": "食べ物を無駄にしてはいけません。",
-    "words": {
-      "must": "しなければならない（must not）",
-      "not": "してはいけない",
-      "waste": "無駄にする",
-      "food": "食べ物"
-    }
-  },
-  {
-    "english": "The new school year begins in April in Japan.",
-    "japanese": "日本では新学期は4月に始まります。",
-    "words": {
-      "new": "新しい",
-      "year": "年・年度",
-      "begins": "始まる",
-      "April": "4月",
-      "Japan": "日本"
-    }
-  },
-  {
-    "english": "He had to leave early because of a meeting.",
-    "japanese": "彼は会議のために早く帰らなければなりませんでした。",
-    "words": {
-      "had": "しなければならなかった（had to）",
-      "leave": "去る・帰る",
-      "early": "早く",
-      "meeting": "会議"
-    }
-  },
-  {
-    "english": "She is kind enough to help anyone who needs it.",
-    "japanese": "彼女は必要な人なら誰でも助けるほど親切です。",
-    "words": {
-      "kind": "親切な",
-      "enough": "十分に",
-      "help": "助ける",
-      "anyone": "誰でも"
-    }
-  },
-  {
-    "english": "I often watch TV after dinner.",
-    "japanese": "私はよく夕食後にテレビを見ます。",
-    "words": {
-      "often": "よく・しばしば",
-      "watch": "見る",
-      "TV": "テレビ",
-      "after": "～の後"
-    }
-  },
-  {
-    "english": "The sun rises in the east.",
-    "japanese": "太陽は東から昇ります。",
-    "words": {
-      "sun": "太陽",
-      "rises": "昇る",
-      "east": "東"
-    }
-  },
-  {
-    "english": "My town has a beautiful old temple.",
-    "japanese": "私の町には美しい古いお寺があります。",
-    "words": {
-      "town": "町",
-      "beautiful": "美しい",
-      "old": "古い",
-      "temple": "寺"
-    }
-  },
-  {
-    "english": "She wore a red dress to the party.",
-    "japanese": "彼女はパーティーに赤いドレスを着ていきました。",
-    "words": {
-      "wore": "着た（wearの過去形）",
-      "red": "赤い",
-      "dress": "ドレス"
-    }
-  },
-  {
-    "english": "I agree with your opinion.",
-    "japanese": "私はあなたの意見に賛成です。",
-    "words": {
-      "agree": "賛成する",
-      "with": "～と",
-      "opinion": "意見"
-    }
-  },
-  {
-    "english": "The school has about five hundred students.",
-    "japanese": "その学校には約500人の生徒がいます。",
-    "words": {
-      "about": "約",
-      "five": "5",
-      "hundred": "百",
-      "students": "生徒"
-    }
-  },
-  {
-    "english": "It is getting dark outside.",
-    "japanese": "外が暗くなってきています。",
-    "words": {
-      "getting": "なってきている（get）",
-      "dark": "暗い",
-      "outside": "外に"
-    }
-  },
-  {
-    "english": "She helped her mother clean the house.",
-    "japanese": "彼女は母が家を掃除するのを手伝いました。",
-    "words": {
-      "helped": "手伝った",
-      "clean": "掃除する",
-      "house": "家"
-    }
-  },
-  {
-    "english": "He runs faster than anyone else on the team.",
-    "japanese": "彼はチームの中で誰よりも速く走ります。",
-    "words": {
-      "runs": "走る",
-      "faster": "より速く",
-      "anyone": "誰",
-      "else": "他の",
-      "team": "チーム"
-    }
-  },
-  {
-    "english": "I forgot to bring my umbrella today.",
-    "japanese": "今日、傘を持ってくるのを忘れました。",
-    "words": {
-      "forgot": "忘れた",
-      "bring": "持ってくる",
-      "umbrella": "傘"
-    }
-  },
-  {
-    "english": "We learned about Japanese history in class.",
-    "japanese": "私たちは授業で日本の歴史について学びました。",
-    "words": {
-      "learned": "学んだ",
-      "Japanese": "日本の",
-      "history": "歴史"
-    }
-  },
-  {
-    "english": "The park was full of people enjoying the cherry blossoms.",
-    "japanese": "公園は桜の花を楽しむ人々でいっぱいでした。",
-    "words": {
-      "full": "いっぱいの",
-      "enjoying": "楽しんでいる",
-      "cherry": "桜",
-      "blossoms": "花"
-    }
-  },
-  {
-    "english": "He speaks so quickly that I can't follow him.",
-    "japanese": "彼はとても速く話すので、私はついていけません。",
-    "words": {
-      "speaks": "話す",
-      "quickly": "速く",
-      "so": "とても（so～that）",
-      "follow": "ついていく・理解する"
-    }
-  },
-  {
-    "english": "What is your favorite kind of food?",
-    "japanese": "あなたが好きな食べ物の種類は何ですか？",
-    "words": {
-      "favorite": "一番好きな",
-      "kind": "種類",
-      "food": "食べ物"
-    }
-  },
-  {
-    "english": "I hope you get better soon.",
-    "japanese": "早く良くなることを願っています。",
-    "words": {
-      "hope": "願う・望む",
-      "get": "なる",
-      "better": "より良い・回復する",
-      "soon": "すぐに"
-    }
-  },
-  {
-    "english": "The child who found the lost kitten was praised by everyone.",
-    "japanese": "迷子の子猫を見つけた子供はみんなに褒められました。",
-    "words": {
-      "child": "子供",
-      "who": "（関係代名詞）",
-      "found": "見つけた",
-      "lost": "迷子の・失われた",
-      "kitten": "子猫",
-      "praised": "褒められた"
-    }
-  },
-  {
-    "english": "She has enough money to buy a new laptop.",
-    "japanese": "彼女は新しいパソコンを買えるだけのお金を持っています。",
-    "words": {
-      "enough": "十分な",
-      "money": "お金",
-      "buy": "買う",
-      "laptop": "ノートパソコン"
-    }
-  },
-  {
-    "english": "The reason why I came here is to see you.",
-    "japanese": "私がここに来た理由はあなたに会うためです。",
-    "words": {
-      "reason": "理由",
-      "why": "なぜ（関係副詞）",
-      "came": "来た（comeの過去形）"
-    }
-  },
-  {
-    "english": "She is old enough to travel alone.",
-    "japanese": "彼女は一人で旅行できるほど十分な年齢です。",
-    "words": {
-      "old": "年齢が",
-      "enough": "十分に",
-      "travel": "旅行する",
-      "alone": "一人で"
-    }
-  },
-  {
-    "english": "I was surprised to hear the news.",
-    "japanese": "そのニュースを聞いて驚きました。",
-    "words": {
-      "surprised": "驚いた",
-      "hear": "聞く",
-      "news": "ニュース"
-    }
-  },
-  {
-    "english": "The answer is written on the board.",
-    "japanese": "答えは黒板に書かれています。",
-    "words": {
-      "answer": "答え",
-      "written": "書かれている",
-      "board": "黒板・ボード"
-    }
-  },
-  {
-    "english": "I cannot decide which one to choose.",
-    "japanese": "どちらを選べばいいか決められません。",
-    "words": {
-      "cannot": "できない",
-      "decide": "決める",
-      "which": "どちら",
-      "choose": "選ぶ"
-    }
-  },
-  {
-    "english": "They are building a new station near our house.",
-    "japanese": "私たちの家の近くに新しい駅が建設されています。",
-    "words": {
-      "building": "建設している",
-      "station": "駅",
-      "near": "近くに"
-    }
-  },
-  {
-    "english": "We talked about our plans for the future.",
-    "japanese": "私たちは将来の計画について話し合いました。",
-    "words": {
-      "talked": "話した",
-      "plans": "計画",
-      "future": "将来"
-    }
-  },
-  {
-    "english": "She looked after her younger sister all day.",
-    "japanese": "彼女は一日中妹の世話をしました。",
-    "words": {
-      "looked": "世話した（look after）",
-      "after": "世話をする（look after）",
-      "younger": "年下の",
-      "sister": "姉妹",
-      "all": "ずっと（all day）"
-    }
-  },
-  {
-    "english": "He is one of the most popular singers in Japan.",
-    "japanese": "彼は日本で最も人気のある歌手の一人です。",
-    "words": {
-      "one": "一人（one of）",
-      "popular": "人気のある",
-      "singers": "歌手",
-      "Japan": "日本"
-    }
-  },
-  {
-    "english": "When I was young, I loved playing outside.",
-    "japanese": "私が子供のころ、外で遊ぶのが大好きでした。",
-    "words": {
-      "when": "～のとき",
-      "young": "若い・子供のころ",
-      "loved": "大好きだった",
-      "playing": "遊ぶこと",
-      "outside": "外で"
-    }
-  },
-  {
-    "english": "He showed me how to use the new application.",
-    "japanese": "彼は私に新しいアプリの使い方を教えてくれました。",
-    "words": {
-      "showed": "教えた・見せた",
-      "how": "どのように",
-      "use": "使う",
-      "application": "アプリ・アプリケーション"
-    }
-  },
-  {
-    "english": "She reads newspapers to improve her Japanese.",
-    "japanese": "彼女は日本語を上達させるために新聞を読みます。",
-    "words": {
-      "reads": "読む",
-      "newspapers": "新聞",
-      "improve": "上達させる",
-      "Japanese": "日本語"
-    }
-  },
-  {
-    "english": "I have been waiting for you for an hour.",
-    "japanese": "私は1時間ずっとあなたを待っています。",
-    "words": {
-      "waiting": "待っている",
-      "hour": "1時間"
-    }
-  },
-  {
-    "english": "The mountains are covered with snow in winter.",
-    "japanese": "山々は冬に雪で覆われます。",
-    "words": {
-      "mountains": "山々",
-      "covered": "覆われた",
-      "snow": "雪",
-      "winter": "冬"
-    }
-  },
-  {
-    "english": "She decided to change her job after a long time.",
-    "japanese": "彼女は長い時間をかけて仕事を変えることを決めました。",
-    "words": {
-      "decided": "決めた",
-      "change": "変える",
-      "job": "仕事",
-      "long": "長い"
-    }
-  },
-  {
-    "english": "I sometimes listen to music while doing homework.",
-    "japanese": "私は宿題をしながら時々音楽を聴きます。",
-    "words": {
-      "sometimes": "時々",
-      "listen": "聴く",
-      "while": "～しながら",
-      "doing": "している"
-    }
-  },
-  {
-    "english": "The lake was so beautiful that we didn't want to leave.",
-    "japanese": "その湖はとても美しくて、私たちは去りたくありませんでした。",
-    "words": {
-      "lake": "湖",
-      "so": "とても（so～that）",
-      "didn't": "したくなかった"
-    }
-  },
-  {
-    "english": "She knows a lot about Japanese culture.",
-    "japanese": "彼女は日本の文化についてよく知っています。",
-    "words": {
-      "knows": "知っている",
-      "lot": "たくさん（a lot）",
-      "culture": "文化"
-    }
-  },
-  {
-    "english": "I need to go to the dentist tomorrow.",
-    "japanese": "私は明日、歯医者に行かなければなりません。",
-    "words": {
-      "need": "する必要がある",
-      "dentist": "歯医者"
-    }
-  },
-  {
-    "english": "The test results will be given next Monday.",
-    "japanese": "テストの結果は来週月曜日に渡されます。",
-    "words": {
-      "results": "結果",
-      "given": "渡される（giveの過去分詞）",
-      "next": "次の",
-      "Monday": "月曜日"
-    }
-  },
-  {
-    "english": "He was so excited that he couldn't sleep.",
-    "japanese": "彼はとても興奮して眠れませんでした。",
-    "words": {
-      "excited": "興奮した",
-      "that": "ので（so～that）",
-      "couldn't": "できなかった",
-      "sleep": "眠る"
-    }
-  },
-  {
-    "english": "I prefer coffee to tea.",
-    "japanese": "私はお茶よりコーヒーの方が好きです。",
-    "words": {
-      "prefer": "好む",
-      "coffee": "コーヒー",
-      "to": "より（prefer A to B）",
-      "tea": "お茶"
-    }
-  },
-  {
-    "english": "The store is closed on Sundays.",
-    "japanese": "そのお店は日曜日に閉まっています。",
-    "words": {
-      "store": "お店",
-      "closed": "閉まっている",
-      "Sundays": "日曜日（複数形）"
-    }
-  },
-  {
-    "english": "She realized that she had forgotten her wallet.",
-    "japanese": "彼女は財布を忘れたことに気づきました。",
-    "words": {
-      "realized": "気づいた",
-      "forgotten": "忘れていた（forgetの過去分詞）",
-      "wallet": "財布"
-    }
-  },
-  {
-    "english": "He was chosen as the leader of the group.",
-    "japanese": "彼はグループのリーダーに選ばれました。",
-    "words": {
-      "chosen": "選ばれた（chooseの過去分詞）",
-      "leader": "リーダー",
-      "group": "グループ"
-    }
-  },
-  {
-    "english": "I wonder if she will come to the party tonight.",
-    "japanese": "彼女が今夜のパーティーに来るかどうか気になります。",
-    "words": {
-      "wonder": "気になる・疑問に思う",
-      "if": "かどうか",
-      "tonight": "今夜"
-    }
-  },
-  {
-    "english": "The exam is coming up, so I need to study harder.",
-    "japanese": "試験が近づいているので、もっと勉強しなければなりません。",
-    "words": {
-      "exam": "試験",
-      "coming": "近づいている（coming up）",
-      "harder": "より一生懸命"
-    }
-  },
-  {
-    "english": "She spent all afternoon making a cake for us.",
-    "japanese": "彼女は私たちのためにケーキを作るのに午後をすべて使いました。",
-    "words": {
-      "spent": "費やした（spendの過去形）",
-      "making": "作ること",
-      "cake": "ケーキ"
-    }
-  },
-  {
-    "english": "I would like to know more about your country.",
-    "japanese": "あなたの国についてもっと知りたいです。",
-    "words": {
-      "would": "（would like to）したい",
-      "know": "知る",
-      "country": "国"
-    }
-  },
-  {
-    "english": "He made me laugh with his funny story.",
-    "japanese": "彼は面白い話で私を笑わせました。",
-    "words": {
-      "made": "させた（make A do）",
-      "laugh": "笑う",
-      "funny": "おかしい・面白い"
-    }
-  },
-  {
-    "english": "The flight was delayed by two hours.",
-    "japanese": "フライトは2時間遅延しました。",
-    "words": {
-      "flight": "フライト・飛行",
-      "delayed": "遅延した",
-      "hours": "時間"
-    }
-  },
-  {
-    "english": "What time does the next train leave?",
-    "japanese": "次の電車は何時に出発しますか？",
-    "words": {
-      "next": "次の",
-      "leave": "出発する"
-    }
-  },
-  {
-    "english": "She took the children to the swimming pool.",
-    "japanese": "彼女は子供たちをプールに連れて行きました。",
-    "words": {
-      "took": "連れて行った（take）",
-      "children": "子供たち",
-      "swimming": "水泳（swimming pool）",
-      "pool": "プール"
-    }
-  },
-  {
-    "english": "He has been living in this town since he was born.",
-    "japanese": "彼は生まれてからずっとこの町に住んでいます。",
-    "words": {
-      "has": "（現在完了進行形）",
-      "living": "住んでいる",
-      "since": "～から",
-      "born": "生まれた"
-    }
-  },
-  {
-    "english": "My favorite season is spring because of the flowers.",
-    "japanese": "私の好きな季節は花のおかげで春です。",
-    "words": {
-      "season": "季節",
-      "spring": "春",
-      "flowers": "花"
-    }
-  },
-  {
-    "english": "I heard that a new shopping mall will open soon.",
-    "japanese": "新しいショッピングモールがもうすぐ開くと聞きました。",
-    "words": {
-      "heard": "聞いた",
-      "shopping": "ショッピング",
-      "mall": "モール",
-      "open": "開く",
-      "soon": "もうすぐ"
-    }
-  },
-  {
-    "english": "He is the person who helped me the most.",
-    "japanese": "彼は私を一番助けてくれた人です。",
-    "words": {
-      "person": "人",
-      "who": "（関係代名詞）",
-      "most": "最も"
-    }
-  },
-  {
-    "english": "She doesn't mind sharing her things with others.",
-    "japanese": "彼女は自分のものを他の人と分け合うことを気にしません。",
-    "words": {
-      "mind": "気にする",
-      "sharing": "分け合うこと",
-      "things": "もの",
-      "others": "他の人"
-    }
-  },
-  {
-    "english": "We need to leave by eight if we want to catch the bus.",
-    "japanese": "バスに乗りたければ8時までに出発する必要があります。",
-    "words": {
-      "leave": "出発する",
-      "eight": "8（時）",
-      "want": "したい",
-      "catch": "乗る（バスに）"
-    }
-  },
-  {
-    "english": "I respect people who keep their promises.",
-    "japanese": "私は約束を守る人を尊敬します。",
-    "words": {
-      "respect": "尊敬する",
-      "keep": "守る",
-      "promises": "約束"
-    }
-  },
-  {
-    "english": "The bakery on the corner smells wonderful.",
-    "japanese": "角のパン屋はとてもいい香りがします。",
-    "words": {
-      "bakery": "パン屋",
-      "corner": "角・コーナー",
-      "smells": "においがする",
-      "wonderful": "すばらしい・とてもよい"
-    }
-  },
-  {
-    "english": "She has already eaten breakfast.",
-    "japanese": "彼女はすでに朝食を食べました。",
-    "words": {
-      "already": "すでに",
-      "eaten": "食べた（eatの過去分詞）",
-      "breakfast": "朝食"
-    }
-  },
-  {
-    "english": "The homework was too hard for me to do alone.",
-    "japanese": "その宿題は一人でするには難しすぎました。",
-    "words": {
-      "homework": "宿題",
-      "too": "～すぎる",
-      "hard": "難しい",
-      "alone": "一人で"
-    }
-  },
-  {
-    "english": "He apologized to her for being late.",
-    "japanese": "彼は遅刻したことで彼女に謝りました。",
-    "words": {
-      "apologized": "謝った",
-      "to": "に（謝る相手）",
-      "for": "～について",
-      "late": "遅刻した"
-    }
-  },
-  {
-    "english": "I have a feeling that something good will happen today.",
-    "japanese": "今日は何かいいことが起きそうな予感がします。",
-    "words": {
-      "feeling": "予感・気持ち",
-      "something": "何か",
-      "good": "良い",
-      "happen": "起きる"
-    }
-  },
-  {
-    "english": "She succeeded in passing the difficult test.",
-    "japanese": "彼女は難しいテストに合格することに成功しました。",
-    "words": {
-      "succeeded": "成功した",
-      "passing": "合格すること",
-      "difficult": "難しい",
-      "test": "テスト"
-    }
-  },
-  {
-    "english": "The sky turned red at sunset.",
-    "japanese": "夕日が沈む頃、空は赤くなりました。",
-    "words": {
-      "sky": "空",
-      "turned": "変わった",
-      "red": "赤い",
-      "sunset": "夕日・日没"
-    }
-  },
-  {
-    "english": "He looked up the word in a dictionary.",
-    "japanese": "彼は辞書でその単語を調べました。",
-    "words": {
-      "looked": "調べた（look up）",
-      "up": "調べる（look up）",
-      "word": "単語",
-      "dictionary": "辞書"
-    }
-  },
-  {
-    "english": "We usually have dinner at six thirty.",
-    "japanese": "私たちはたいてい6時半に夕食をとります。",
-    "words": {
-      "usually": "たいてい",
-      "have": "食べる・とる",
-      "dinner": "夕食",
-      "thirty": "30"
-    }
-  },
-  {
-    "english": "I am not as good at cooking as my mother.",
-    "japanese": "私は母ほど料理が得意ではありません。",
-    "words": {
-      "not": "ない（as～as）",
-      "as": "ほど～ではない（not as～as）",
-      "good": "得意な",
-      "cooking": "料理",
-      "mother": "母"
-    }
-  },
-  {
-    "english": "She writes in her diary every night before she goes to sleep.",
-    "japanese": "彼女は毎晩寝る前に日記を書きます。",
-    "words": {
-      "writes": "書く",
-      "diary": "日記",
-      "night": "夜",
-      "goes": "行く",
-      "sleep": "眠る"
-    }
-  },
-  {
-    "english": "Can I borrow your pen for a moment?",
-    "japanese": "少しの間、ペンを借りていいですか？",
-    "words": {
-      "borrow": "借りる",
-      "pen": "ペン",
-      "moment": "少しの間・瞬間"
-    }
-  },
-  {
-    "english": "The boy standing by the window is my cousin.",
-    "japanese": "窓のそばに立っている男の子は私のいとこです。",
-    "words": {
-      "standing": "立っている",
-      "window": "窓",
-      "cousin": "いとこ"
-    }
-  },
-  {
-    "english": "He speaks as if he knows everything.",
-    "japanese": "彼はまるで何でも知っているかのように話します。",
-    "words": {
-      "speaks": "話す",
-      "as": "まるで（as if）",
-      "if": "かのように（as if）",
-      "knows": "知っている",
-      "everything": "すべて"
-    }
-  },
-  {
-    "english": "I think it is important to be honest with your friends.",
-    "japanese": "友達に正直であることは大切だと思います。",
-    "words": {
-      "think": "思う",
-      "important": "大切な",
-      "honest": "正直な",
-      "friends": "友達"
-    }
-  },
-  {
-    "english": "The bus driver stopped the bus to let the passengers off.",
-    "japanese": "バスの運転手は乗客を降ろすためにバスを止めました。",
-    "words": {
-      "driver": "運転手",
-      "stopped": "止めた",
-      "let": "させる",
-      "passengers": "乗客",
-      "off": "降りる（get off）"
-    }
-  },
-  {
-    "english": "I cannot imagine living without the internet.",
-    "japanese": "インターネットなしで生活することは想像できません。",
-    "words": {
-      "imagine": "想像する",
-      "living": "生活すること",
-      "without": "なしに",
-      "internet": "インターネット"
-    }
-  },
-  {
-    "english": "She played the violin at the school concert.",
-    "japanese": "彼女は学校のコンサートでバイオリンを弾きました。",
-    "words": {
-      "played": "演奏した",
-      "violin": "バイオリン",
-      "school": "学校",
-      "concert": "コンサート"
-    }
-  },
-  {
-    "english": "We collected donations for the flood victims.",
-    "japanese": "私たちは洪水の被害者のために募金を集めました。",
-    "words": {
-      "collected": "集めた",
-      "donations": "寄付・募金",
-      "flood": "洪水",
-      "victims": "被害者"
-    }
-  },
-  {
-    "english": "My teacher told us that hard work always pays off.",
-    "japanese": "先生は努力は必ず報われると私たちに言いました。",
-    "words": {
-      "teacher": "先生",
-      "told": "言った",
-      "hard": "一生懸命の",
-      "work": "努力・仕事",
-      "always": "必ず・いつも",
-      "pays": "報われる（pay off）"
-    }
-  },
-  {
-    "english": "She has worked at this company since graduation.",
-    "japanese": "彼女は卒業以来この会社で働いています。",
-    "words": {
-      "worked": "働いた（worked）",
-      "company": "会社",
-      "since": "以来",
-      "graduation": "卒業"
-    }
-  },
-  {
-    "english": "I think that children should spend more time outdoors.",
-    "japanese": "子供はもっと外で過ごすべきだと思います。",
-    "words": {
-      "children": "子供",
-      "should": "すべき",
-      "spend": "過ごす",
-      "more": "より多く",
-      "outdoors": "屋外で"
-    }
-  },
-  {
-    "english": "The cake she made for my birthday was delicious.",
-    "japanese": "彼女が私の誕生日に作ってくれたケーキはおいしかったです。",
-    "words": {
-      "made": "作った",
-      "birthday": "誕生日",
-      "delicious": "おいしい"
-    }
-  },
-  {
-    "english": "He tries not to eat too much sugar.",
-    "japanese": "彼は砂糖をとりすぎないようにしています。",
-    "words": {
-      "tries": "するようにしている",
-      "not": "ないように（try not to）",
-      "too": "～すぎる",
-      "much": "多く",
-      "sugar": "砂糖"
-    }
-  },
-  {
-    "english": "I am lucky to have such good friends.",
-    "japanese": "こんなにいい友達がいて私はラッキーです。",
-    "words": {
-      "lucky": "ラッキーな・幸運な",
-      "have": "持つ",
-      "such": "そのような",
-      "good": "良い"
-    }
-  },
-  {
-    "english": "She was moved by the kindness of the strangers.",
-    "japanese": "彼女は見知らぬ人たちの親切に感動しました。",
-    "words": {
-      "moved": "感動した",
-      "kindness": "親切",
-      "strangers": "見知らぬ人たち"
-    }
-  },
-  {
-    "english": "He has three brothers, all of whom are taller than him.",
-    "japanese": "彼には3人の兄弟がいて、全員彼より背が高いです。",
-    "words": {
-      "three": "3人",
-      "brothers": "兄弟",
-      "all": "全員",
-      "whom": "（関係代名詞）",
-      "taller": "より背が高い"
-    }
-  },
-  {
-    "english": "We should think about how to reduce garbage.",
-    "japanese": "私たちはゴミを減らす方法について考えるべきです。",
-    "words": {
-      "think": "考える",
-      "reduce": "減らす",
-      "garbage": "ゴミ"
-    }
-  },
-  {
-    "english": "The competition is held once a year in this city.",
-    "japanese": "その大会はこの市で年に一度開催されます。",
-    "words": {
-      "competition": "大会・コンテスト",
-      "held": "開催される（holdの過去分詞）",
-      "once": "一度",
-      "year": "年",
-      "city": "市・都市"
-    }
-  },
-  {
-    "english": "She felt that something was wrong with the plan.",
-    "japanese": "彼女はその計画に何か問題があると感じました。",
-    "words": {
-      "felt": "感じた（feelの過去形）",
-      "wrong": "間違った・おかしい",
-      "plan": "計画"
-    }
-  },
-  {
-    "english": "I want to thank you for everything you have done.",
-    "japanese": "あなたがしてくれたすべてのことに感謝したいです。",
-    "words": {
-      "thank": "感謝する",
-      "everything": "すべてのこと",
-      "done": "してくれた（doの過去分詞）"
-    }
-  },
-  {
-    "english": "The number of people learning English is growing rapidly.",
-    "japanese": "英語を学ぶ人の数が急速に増えています。",
-    "words": {
-      "number": "数",
-      "learning": "学んでいる",
-      "growing": "増えている",
-      "rapidly": "急速に"
-    }
-  },
-  {
-    "english": "She used to live in the countryside when she was a child.",
-    "japanese": "彼女は子供の頃、田舎に住んでいました。",
-    "words": {
-      "used": "以前は～していた（used to）",
-      "countryside": "田舎",
-      "child": "子供"
-    }
-  },
-  {
-    "english": "He was happy because his team won the championship.",
-    "japanese": "彼はチームが優勝したので嬉しかったです。",
-    "words": {
-      "happy": "嬉しい",
-      "because": "なぜなら",
-      "won": "勝った（winの過去形）",
-      "championship": "優勝・選手権"
-    }
-  },
-  {
-    "english": "I don't have time to watch TV these days.",
-    "japanese": "最近テレビを見る時間がありません。",
-    "words": {
-      "don't": "ない",
-      "time": "時間",
-      "watch": "見る",
-      "these": "最近（these days）",
-      "days": "日・最近（these days）"
-    }
-  },
-  {
-    "english": "She grew up speaking both English and Japanese.",
-    "japanese": "彼女は英語と日本語の両方を話して育ちました。",
-    "words": {
-      "grew": "育った（grow upの過去形）",
-      "up": "成長する（grow up）",
-      "speaking": "話しながら",
-      "both": "両方"
-    }
-  },
-  {
-    "english": "The sunset over the ocean was breathtaking.",
-    "japanese": "海に沈む夕日は息をのむほど美しかったです。",
-    "words": {
-      "sunset": "夕日・日没",
-      "over": "～の向こうに・越えて",
-      "ocean": "海・大洋",
-      "breathtaking": "息をのむほどの・圧巻の"
-    }
-  }
+    "english": "Call me Daniel.",
+    "japanese": "ダニエルと呼んでください。",
+    "words": {"call": "呼ぶ", "me": "私を", "Daniel": "ダニエル（名前）"}
+  },
+  {
+    "english": "I want to join the club.",
+    "japanese": "私はそのクラブに入りたいです。",
+    "words": {"want": "したい", "join": "加わる", "the": "その", "club": "クラブ"}
+  },
+  {
+    "english": "I am a big fan of rugby.",
+    "japanese": "私はラグビーの大ファンです。",
+    "words": {"big": "大きな", "fan": "ファン", "rugby": "ラグビー"}
+  },
+  {
+    "english": "I often watch rugby with my friends.",
+    "japanese": "私はよく友達とラグビーを見ます。",
+    "words": {"often": "よく", "watch": "見る", "rugby": "ラグビー", "friends": "友達"}
+  },
+  {
+    "english": "South Africa is great at rugby.",
+    "japanese": "南アフリカはラグビーがとても強いです。",
+    "words": {"South Africa": "南アフリカ", "great": "すごい", "at": "～が得意", "rugby": "ラグビー"}
+  },
+  {
+    "english": "I love South Africa.",
+    "japanese": "私は南アフリカが大好きです。",
+    "words": {"love": "大好き・愛する", "South Africa": "南アフリカ"}
+  },
+  {
+    "english": "Everyone in my class loves sweets.",
+    "japanese": "私のクラスのみんながお菓子を大好きです。",
+    "words": {"everyone": "みんな", "class": "クラス", "loves": "大好き", "sweets": "お菓子"}
+  },
+  {
+    "english": "Do you like sweet peaches?",
+    "japanese": "あなたは甘い桃が好きですか？",
+    "words": {"sweet": "甘い", "peaches": "桃"}
+  },
+  # --- Japanese / art / comic / anime ---
+  {
+    "english": "I draw an anime character in art class.",
+    "japanese": "私は美術の授業でアニメのキャラクターを描きます。",
+    "words": {"draw": "描く", "anime": "アニメ", "character": "キャラクター", "art": "美術", "class": "授業"}
+  },
+  {
+    "english": "I read Japanese comics after school.",
+    "japanese": "私は放課後に日本のマンガを読みます。",
+    "words": {"read": "読む", "Japanese": "日本の", "comics": "マンガ", "after school": "放課後"}
+  },
+  {
+    "english": "Wow, this comic is so interesting!",
+    "japanese": "わあ、このマンガはとても面白い！",
+    "words": {"wow": "わあ", "comic": "マンガ", "so": "とても", "interesting": "面白い"}
+  },
+  {
+    "english": "I cannot draw well, but I love art.",
+    "japanese": "私は上手く描けませんが、美術が大好きです。",
+    "words": {"cannot": "できない", "draw": "描く", "well": "上手に", "but": "しかし", "love": "大好き", "art": "美術"}
+  },
+  # --- school / lesson / teacher / subject ---
+  {
+    "english": "Our new teacher is from Canada.",
+    "japanese": "私たちの新しい先生はカナダ出身です。",
+    "words": {"our": "私たちの", "new": "新しい", "teacher": "先生", "from": "出身", "Canada": "カナダ"}
+  },
+  {
+    "english": "Ms. Brown is cool and good at teaching.",
+    "japanese": "ブラウン先生はかっこよくて教えるのが得意です。",
+    "words": {"Ms.": "～先生（女性）", "cool": "かっこいい", "good at": "得意", "teaching": "教えること"}
+  },
+  {
+    "english": "Mr. King is our math teacher.",
+    "japanese": "キング先生は私たちの数学の先生です。",
+    "words": {"Mr.": "～先生（男性）", "king": "キング（名前）", "math": "数学", "teacher": "先生"}
+  },
+  {
+    "english": "English is my favorite subject.",
+    "japanese": "英語は私の一番好きな教科です。",
+    "words": {"English": "英語", "favorite": "一番好きな", "subject": "教科"}
+  },
+  {
+    "english": "I study math every day after school.",
+    "japanese": "私は毎日放課後に数学を勉強します。",
+    "words": {"study": "勉強する", "math": "数学", "every day": "毎日", "after school": "放課後"}
+  },
+  {
+    "english": "We have six lessons today.",
+    "japanese": "今日は6時間授業があります。",
+    "words": {"have": "ある", "six": "6", "lessons": "授業（複数）", "today": "今日"}
+  },
+  {
+    "english": "I use a textbook and a notebook in class.",
+    "japanese": "私は授業で教科書とノートを使います。",
+    "words": {"use": "使う", "textbook": "教科書", "notebook": "ノート", "class": "授業"}
+  },
+  {
+    "english": "I go to elementary school near my house.",
+    "japanese": "私は家の近くの小学校に通っています。",
+    "words": {"go": "通う", "elementary school": "小学校", "near": "近く", "house": "家"}
+  },
+  {
+    "english": "She is a student at junior high school.",
+    "japanese": "彼女は中学校の生徒です。",
+    "words": {"student": "生徒", "junior high school": "中学校"}
+  },
+  {
+    "english": "Our classroom is on the second floor.",
+    "japanese": "私たちの教室は2階にあります。",
+    "words": {"classroom": "教室", "second": "2番目の", "floor": "階"}
+  },
+  # --- swimming / sport / basketball / baseball ---
+  {
+    "english": "I am good at swimming.",
+    "japanese": "私は水泳が得意です。",
+    "words": {"good at": "得意", "swimming": "水泳"}
+  },
+  {
+    "english": "How about swimming in the pool?",
+    "japanese": "プールで泳ぐのはどうですか？",
+    "words": {"how about": "どうですか", "swimming": "泳ぐこと", "pool": "プール"}
+  },
+  {
+    "english": "I practice swimming at the swimming pool every Saturday.",
+    "japanese": "私は毎週土曜日にプールで水泳を練習します。",
+    "words": {"practice": "練習する", "swimming pool": "プール", "every": "毎", "Saturday": "土曜日"}
+  },
+  {
+    "english": "My favorite sport is basketball.",
+    "japanese": "私の好きなスポーツはバスケットボールです。",
+    "words": {"favorite": "一番好きな", "sport": "スポーツ", "basketball": "バスケットボール"}
+  },
+  {
+    "english": "He is a great baseball player.",
+    "japanese": "彼はすばらしい野球選手です。",
+    "words": {"great": "すばらしい", "baseball": "野球", "player": "選手"}
+  },
+  {
+    "english": "What sports do you play?",
+    "japanese": "あなたはどんなスポーツをしますか？",
+    "words": {"what": "どんな", "sports": "スポーツ（複数）", "play": "する・遊ぶ"}
+  },
+  {
+    "english": "He is strong, so he is a good rugby player.",
+    "japanese": "彼は強いのでラグビーの上手な選手です。",
+    "words": {"strong": "強い", "so": "だから", "rugby": "ラグビー", "player": "選手"}
+  },
+  # --- food / lunch / cooking / fish / beef / fruit ---
+  {
+    "english": "What do you usually have for lunch?",
+    "japanese": "あなたはたいてい昼食に何を食べますか？",
+    "words": {"usually": "たいてい", "have": "食べる", "lunch": "昼食"}
+  },
+  {
+    "english": "I like fish, but I don't eat beef.",
+    "japanese": "私は魚が好きですが、牛肉は食べません。",
+    "words": {"like": "好き", "fish": "魚", "but": "しかし", "don't": "しない", "eat": "食べる", "beef": "牛肉"}
+  },
+  {
+    "english": "My mother can cook really well.",
+    "japanese": "私の母はとても上手に料理できます。",
+    "words": {"mother": "母", "can": "できる", "cook": "料理する", "really": "本当に", "well": "上手に"}
+  },
+  {
+    "english": "I enjoy cooking Japanese food for my family.",
+    "japanese": "私は家族のために日本食を作るのを楽しみます。",
+    "words": {"enjoy": "楽しむ", "cooking": "料理すること", "Japanese": "日本の", "food": "食べ物", "family": "家族"}
+  },
+  {
+    "english": "My father makes very good fruit salad.",
+    "japanese": "私の父はとても美味しいフルーツサラダを作ります。",
+    "words": {"father": "父", "makes": "作る", "very": "とても", "fruit": "果物", "salad": "サラダ"}
+  },
+  {
+    "english": "Do you eat cheese every day?",
+    "japanese": "あなたは毎日チーズを食べますか？",
+    "words": {"eat": "食べる", "cheese": "チーズ", "every day": "毎日"}
+  },
+  {
+    "english": "I drink green tea after lunch.",
+    "japanese": "私は昼食後に緑茶を飲みます。",
+    "words": {"drink": "飲む", "green tea": "緑茶", "after": "後に", "lunch": "昼食"}
+  },
+  {
+    "english": "Peaches are my favorite fruit.",
+    "japanese": "桃は私の一番好きな果物です。",
+    "words": {"peaches": "桃", "favorite": "一番好きな", "fruit": "果物"}
+  },
+  # --- school trip / Singapore / airport / flight ---
+  {
+    "english": "We will visit Singapore during the Golden Week holidays.",
+    "japanese": "私たちはゴールデンウィークの休暇中にシンガポールを訪れます。",
+    "words": {"visit": "訪れる", "Singapore": "シンガポール", "during": "～の間", "Golden Week": "ゴールデンウィーク", "holidays": "休暇（複数）"}
+  },
+  {
+    "english": "I am excited about our flight to Singapore.",
+    "japanese": "シンガポールへのフライトがとても楽しみです。",
+    "words": {"excited": "わくわくしている", "flight": "フライト", "Singapore": "シンガポール"}
+  },
+  {
+    "english": "Our flight will arrive at the airport at noon.",
+    "japanese": "フライトは正午に空港に到着します。",
+    "words": {"flight": "フライト", "arrive": "到着する", "airport": "空港", "noon": "正午"}
+  },
+  {
+    "english": "See you at the airport!",
+    "japanese": "空港で会いましょう！",
+    "words": {"see you": "またね・会いましょう", "airport": "空港"}
+  },
+  {
+    "english": "Daniel will come to the airport soon.",
+    "japanese": "ダニエルはもうすぐ空港に来ます。",
+    "words": {"Daniel": "ダニエル", "come": "来る", "airport": "空港", "soon": "もうすぐ"}
+  },
+  {
+    "english": "I'll make a reservation for a seafood restaurant.",
+    "japanese": "私はシーフードレストランを予約します。",
+    "words": {"I'll": "私は～するつもり", "make": "する", "reservation": "予約", "seafood": "シーフード"}
+  },
+  # --- Merlion / Singapore sights ---
+  {
+    "english": "We visited Merlion Park yesterday.",
+    "japanese": "私たちは昨日マーライオン公園を訪れました。",
+    "words": {"visited": "訪れた", "Merlion Park": "マーライオン公園", "yesterday": "昨日"}
+  },
+  {
+    "english": "The Merlion is a famous symbol of Singapore.",
+    "japanese": "マーライオンはシンガポールの有名なシンボルです。",
+    "words": {"Merlion": "マーライオン", "famous": "有名な", "symbol": "シンボル", "Singapore": "シンガポール"}
+  },
+  {
+    "english": "The Merlion is about 8.6 meters tall.",
+    "japanese": "マーライオンは約8.6メートルの高さです。",
+    "words": {"about": "約", "meters": "メートル", "tall": "高さがある"}
+  },
+  {
+    "english": "I found a lot of languages in Singapore.",
+    "japanese": "私はシンガポールでたくさんの言語を見つけました。",
+    "words": {"found": "見つけた（findの過去形）", "lot": "たくさん", "languages": "言語", "Singapore": "シンガポール"}
+  },
+  {
+    "english": "For example, people speak Malay and Tamil there.",
+    "japanese": "例えば、そこではマレー語やタミル語が話されます。",
+    "words": {"for example": "例えば", "speak": "話す", "Malay": "マレー語", "Tamil": "タミル語"}
+  },
+  {
+    "english": "One dollar in Singapore is about 100 yen.",
+    "japanese": "シンガポールの1ドルは約100円です。",
+    "words": {"one": "1", "dollar": "ドル", "Singapore": "シンガポール", "about": "約"}
+  },
+  {
+    "english": "I was surprised by the culture in Singapore.",
+    "japanese": "私はシンガポールの文化に驚きました。",
+    "words": {"surprised": "驚いた", "culture": "文化", "Singapore": "シンガポール"}
+  },
+  {
+    "english": "Chinatown in Singapore is a very interesting area.",
+    "japanese": "シンガポールのチャイナタウンはとても面白い地域です。",
+    "words": {"Chinatown": "チャイナタウン", "Singapore": "シンガポール", "interesting": "面白い", "area": "地域"}
+  },
+  {
+    "english": "I saw a beautiful mosque near Arab Street.",
+    "japanese": "私はアラブ・ストリートの近くに美しいモスクを見ました。",
+    "words": {"saw": "見た", "beautiful": "美しい", "mosque": "モスク", "near": "近く", "Arab Street": "アラブ・ストリート"}
+  },
+  {
+    "english": "There is a Hindu temple in Little India.",
+    "japanese": "リトル・インディアにはヒンドゥー教の寺院があります。",
+    "words": {"there is": "ある", "Hindu": "ヒンドゥー教の", "temple": "寺院", "Little India": "リトル・インディア"}
+  },
+  {
+    "english": "I tried ramen and instant noodles in Singapore.",
+    "japanese": "私はシンガポールでラーメンとインスタントラーメンを食べました。",
+    "words": {"tried": "試した", "ramen": "ラーメン", "instant noodle": "インスタントラーメン", "Singapore": "シンガポール"}
+  },
+  {
+    "english": "By the way, what is your favorite food in Singapore?",
+    "japanese": "ところで、シンガポールで一番好きな食べ物は何ですか？",
+    "words": {"by the way": "ところで", "favorite": "一番好きな", "food": "食べ物", "Singapore": "シンガポール"}
+  },
+  # --- India / painting / wall / culture ---
+  {
+    "english": "I saw a beautiful painting on the wall in India.",
+    "japanese": "私はインドで壁に描かれた美しい絵を見ました。",
+    "words": {"painting": "絵・絵画", "wall": "壁", "India": "インド"}
+  },
+  {
+    "english": "The culture in India is very different from Japan.",
+    "japanese": "インドの文化は日本とはとても違います。",
+    "words": {"culture": "文化", "India": "インド", "different": "違う", "from": "～と"}
+  },
+  # --- New Zealand / sheep / kiwi ---
+  {
+    "english": "New Zealand is famous for its sheep.",
+    "japanese": "ニュージーランドは羊で有名です。",
+    "words": {"New Zealand": "ニュージーランド", "famous": "有名な", "sheep": "羊"}
+  },
+  {
+    "english": "I want to eat kiwis from New Zealand someday.",
+    "japanese": "いつかニュージーランドのキウイを食べたいです。",
+    "words": {"want": "したい", "eat": "食べる", "kiwis": "キウイ（複数）", "New Zealand": "ニュージーランド", "someday": "いつか"}
+  },
+  {
+    "english": "There are many sheep in New Zealand.",
+    "japanese": "ニュージーランドにはたくさんの羊がいます。",
+    "words": {"many": "たくさんの", "sheep": "羊", "New Zealand": "ニュージーランド"}
+  },
+  # --- America / Canada / China ---
+  {
+    "english": "She is a Chinese student from China.",
+    "japanese": "彼女は中国からの中国人の生徒です。",
+    "words": {"Chinese": "中国人の", "student": "生徒", "from": "出身", "China": "中国"}
+  },
+  {
+    "english": "He lives in America and loves baseball.",
+    "japanese": "彼はアメリカに住んでいて野球が大好きです。",
+    "words": {"lives": "住んでいる", "America": "アメリカ", "loves": "大好き", "baseball": "野球"}
+  },
+  {
+    "english": "Some of my friends are from Canada.",
+    "japanese": "私の友達の中にはカナダ出身の人もいます。",
+    "words": {"some": "何人か", "friends": "友達", "from": "出身", "Canada": "カナダ"}
+  },
+  {
+    "english": "Can you speak Chinese?",
+    "japanese": "あなたは中国語を話せますか？",
+    "words": {"can": "できる", "speak": "話す", "Chinese": "中国語"}
+  },
+  # --- park / station / hallway / shrine ---
+  {
+    "english": "Let's walk to the park after school.",
+    "japanese": "放課後、公園まで歩いて行きましょう。",
+    "words": {"walk": "歩く", "park": "公園", "after school": "放課後"}
+  },
+  {
+    "english": "The station is near our school.",
+    "japanese": "駅は私たちの学校の近くにあります。",
+    "words": {"station": "駅", "near": "近く", "school": "学校"}
+  },
+  {
+    "english": "Go straight and turn left at the shrine.",
+    "japanese": "まっすぐ進んで、神社で左に曲がってください。",
+    "words": {"go": "進む", "straight": "まっすぐ", "turn": "曲がる", "left": "左に", "shrine": "神社"}
+  },
+  {
+    "english": "I met my friend in the hallway.",
+    "japanese": "私は廊下で友達に会いました。",
+    "words": {"met": "会った", "friend": "友達", "hallway": "廊下"}
+  },
+  {
+    "english": "Please look at the poster on the wall in the hallway.",
+    "japanese": "廊下の壁に貼ってあるポスターを見てください。",
+    "words": {"look at": "見る", "poster": "ポスター", "wall": "壁", "hallway": "廊下"}
+  },
+  # --- birthday / party / song / gift ---
+  {
+    "english": "Today is my birthday!",
+    "japanese": "今日は私の誕生日です！",
+    "words": {"today": "今日", "birthday": "誕生日"}
+  },
+  {
+    "english": "We had a fun birthday party last night.",
+    "japanese": "昨夜は楽しい誕生日パーティーをしました。",
+    "words": {"fun": "楽しい", "birthday": "誕生日", "party": "パーティー", "last night": "昨夜"}
+  },
+  {
+    "english": "I got a great gift from my friend.",
+    "japanese": "友達からすてきなプレゼントをもらいました。",
+    "words": {"got": "もらった", "great": "すてきな", "gift": "プレゼント", "friend": "友達"}
+  },
+  {
+    "english": "We sang a song together at the party.",
+    "japanese": "私たちはパーティーで一緒に歌を歌いました。",
+    "words": {"sang": "歌った", "song": "歌", "together": "一緒に", "party": "パーティー"}
+  },
+  {
+    "english": "She baked a cake for the birthday party.",
+    "japanese": "彼女は誕生日パーティーのためにケーキを焼きました。",
+    "words": {"baked": "焼いた", "cake": "ケーキ", "birthday": "誕生日", "party": "パーティー"}
+  },
+  # --- summer / winter / season / beach / lake ---
+  {
+    "english": "Summer is my favorite season.",
+    "japanese": "夏は私の一番好きな季節です。",
+    "words": {"summer": "夏", "favorite": "一番好きな", "season": "季節"}
+  },
+  {
+    "english": "In summer, I swim in the sea with my friends.",
+    "japanese": "夏は友達と海で泳ぎます。",
+    "words": {"summer": "夏", "swim": "泳ぐ", "sea": "海", "friends": "友達"}
+  },
+  {
+    "english": "I love going to the beach in summer.",
+    "japanese": "私は夏にビーチに行くのが大好きです。",
+    "words": {"love": "大好き", "going": "行くこと", "beach": "ビーチ", "summer": "夏"}
+  },
+  {
+    "english": "We went fishing at the lake last winter.",
+    "japanese": "私たちは去年の冬に湖に釣りに行きました。",
+    "words": {"went": "行った", "fishing": "釣り", "lake": "湖", "last": "去年の", "winter": "冬"}
+  },
+  {
+    "english": "It is cold and rainy in winter in this town.",
+    "japanese": "この町の冬は寒くて雨が多いです。",
+    "words": {"cold": "寒い", "rainy": "雨の多い", "winter": "冬", "town": "町"}
+  },
+  # --- rainy day / rain / train / water ---
+  {
+    "english": "On a rainy day, I take the train to school.",
+    "japanese": "雨の日は電車で学校に行きます。",
+    "words": {"rainy": "雨の", "day": "日", "take": "乗る", "train": "電車", "school": "学校"}
+  },
+  {
+    "english": "The rain stopped, so we can go to the park.",
+    "japanese": "雨がやんだので、公園に行けます。",
+    "words": {"rain": "雨", "stopped": "やんだ", "so": "だから", "park": "公園"}
+  },
+  {
+    "english": "Please drink a lot of water every day.",
+    "japanese": "毎日たくさん水を飲んでください。",
+    "words": {"drink": "飲む", "lot": "たくさん", "water": "水", "every day": "毎日"}
+  },
+  {
+    "english": "I walk to the station when it is not rainy.",
+    "japanese": "雨でないときは駅まで歩いて行きます。",
+    "words": {"walk": "歩く", "station": "駅", "when": "のとき", "rainy": "雨の"}
+  },
+  # --- glue / ball / basket / table / bench / picture ---
+  {
+    "english": "I use glue to make a picture in art class.",
+    "japanese": "私は美術の授業で絵を作るときにのりを使います。",
+    "words": {"use": "使う", "glue": "のり", "make": "作る", "picture": "絵", "art": "美術", "class": "授業"}
+  },
+  {
+    "english": "Put the ball into the basket!",
+    "japanese": "ボールをバスケットの中に入れてください！",
+    "words": {"put": "入れる", "ball": "ボール", "basket": "かご・バスケット"}
+  },
+  {
+    "english": "There is a bench near the table in the park.",
+    "japanese": "公園のテーブルの近くにベンチがあります。",
+    "words": {"bench": "ベンチ", "near": "近く", "table": "テーブル", "park": "公園"}
+  },
+  {
+    "english": "She drew a beautiful picture of the lake.",
+    "japanese": "彼女は湖の美しい絵を描きました。",
+    "words": {"drew": "描いた", "beautiful": "美しい", "picture": "絵", "lake": "湖"}
+  },
+  {
+    "english": "I put the books on the table in the kitchen.",
+    "japanese": "私はキッチンのテーブルに本を置きました。",
+    "words": {"put": "置いた", "books": "本", "table": "テーブル", "kitchen": "キッチン"}
+  },
+  # --- room / house / bath / clock / nose ---
+  {
+    "english": "My room has a big clock on the wall.",
+    "japanese": "私の部屋の壁には大きな時計があります。",
+    "words": {"room": "部屋", "big": "大きな", "clock": "時計", "wall": "壁"}
+  },
+  {
+    "english": "I take a bath at 9 p.m. every night.",
+    "japanese": "私は毎晩午後9時にお風呂に入ります。",
+    "words": {"take": "入る", "bath": "お風呂", "p.m.": "午後", "every": "毎", "night": "夜"}
+  },
+  {
+    "english": "My house is not far from the station.",
+    "japanese": "私の家は駅からそれほど遠くありません。",
+    "words": {"house": "家", "not": "ない", "far": "遠い", "station": "駅"}
+  },
+  {
+    "english": "The clock in our classroom is always right.",
+    "japanese": "私たちの教室の時計はいつも正確です。",
+    "words": {"clock": "時計", "classroom": "教室", "always": "いつも", "right": "正確な・正しい"}
+  },
+  {
+    "english": "Oops! I got glue on my nose!",
+    "japanese": "あらっ！鼻にのりがついてしまった！",
+    "words": {"oops": "あらっ・しまった", "got": "ついた", "glue": "のり", "nose": "鼻"}
+  },
+  # --- bike / game / T-shirt / star ---
+  {
+    "english": "I ride my bike to school every morning.",
+    "japanese": "私は毎朝自転車で学校に行きます。",
+    "words": {"ride": "乗る", "bike": "自転車", "school": "学校", "every": "毎", "morning": "朝"}
+  },
+  {
+    "english": "He plays online games after school.",
+    "japanese": "彼は放課後にオンラインゲームをします。",
+    "words": {"plays": "する", "online": "オンラインの", "game": "ゲーム", "after school": "放課後"}
+  },
+  {
+    "english": "I want that round T-shirt with a star on it.",
+    "japanese": "私は星の模様が入ったあの丸いTシャツが欲しいです。",
+    "words": {"want": "欲しい", "round": "丸い", "T-shirt": "Tシャツ", "star": "星"}
+  },
+  {
+    "english": "You're a star! Well done!",
+    "japanese": "あなたはすごい！よくできました！",
+    "words": {"you're": "あなたは", "star": "スター・すごい人", "well done": "よくできました"}
+  },
+  # --- pet / puppy / animal / bird ---
+  {
+    "english": "I have a pet bird at home.",
+    "japanese": "私は家でペットの鳥を飼っています。",
+    "words": {"pet": "ペット", "bird": "鳥", "home": "家"}
+  },
+  {
+    "english": "My family got a puppy last month.",
+    "japanese": "私の家族は先月子犬を飼い始めました。",
+    "words": {"family": "家族", "got": "飼い始めた", "puppy": "子犬", "last": "先の"}
+  },
+  {
+    "english": "I love all kinds of animals.",
+    "japanese": "私はあらゆる種類の動物が大好きです。",
+    "words": {"love": "大好き", "all": "あらゆる", "kinds": "種類", "animals": "動物（複数）"}
+  },
+  {
+    "english": "How many puppies does she have?",
+    "japanese": "彼女は子犬を何匹飼っていますか？",
+    "words": {"how many": "いくつ", "puppies": "子犬（複数）", "have": "飼っている"}
+  },
+  {
+    "english": "There are many wild animals in South Africa.",
+    "japanese": "南アフリカにはたくさんの野生動物がいます。",
+    "words": {"many": "たくさんの", "wild": "野生の", "animals": "動物", "South Africa": "南アフリカ"}
+  },
+  # --- who / why / what / how / when / where ---
+  {
+    "english": "Who is your favorite character in Detective Conan?",
+    "japanese": "名探偵コナンで一番好きなキャラクターは誰ですか？",
+    "words": {"who": "誰", "favorite": "一番好きな", "character": "キャラクター", "Detective Conan": "名探偵コナン"}
+  },
+  {
+    "english": "What's your favorite subject at school?",
+    "japanese": "学校で一番好きな教科は何ですか？",
+    "words": {"what's": "何ですか", "favorite": "一番好きな", "subject": "教科", "school": "学校"}
+  },
+  {
+    "english": "Why do you like English so much?",
+    "japanese": "なぜあなたはそんなに英語が好きなのですか？",
+    "words": {"why": "なぜ", "like": "好き", "English": "英語", "so much": "そんなに"}
+  },
+  {
+    "english": "Where is the nearest station?",
+    "japanese": "一番近い駅はどこですか？",
+    "words": {"where": "どこ", "nearest": "最も近い", "station": "駅"}
+  },
+  {
+    "english": "When's the next English lesson?",
+    "japanese": "次の英語の授業はいつですか？",
+    "words": {"when's": "いつ", "next": "次の", "English": "英語", "lesson": "授業"}
+  },
+  {
+    "english": "Where's the swimming pool in this town?",
+    "japanese": "この町のプールはどこにありますか？",
+    "words": {"where's": "どこ", "swimming pool": "プール", "town": "町"}
+  },
+  {
+    "english": "Who's the starter for today's baseball game?",
+    "japanese": "今日の野球の先発投手は誰ですか？",
+    "words": {"who's": "誰ですか", "starter": "先発投手", "baseball": "野球", "game": "試合"}
+  },
+  # --- politeness expressions ---
+  {
+    "english": "Excuse me, where is the park?",
+    "japanese": "すみません、公園はどこですか？",
+    "words": {"excuse me": "すみません", "where": "どこ", "park": "公園"}
+  },
+  {
+    "english": "Here you are. This is your notebook.",
+    "japanese": "はい、どうぞ。これはあなたのノートです。",
+    "words": {"here you are": "はいどうぞ", "notebook": "ノート"}
+  },
+  {
+    "english": "Thank you for the gift!",
+    "japanese": "プレゼントをありがとう！",
+    "words": {"thank you": "ありがとう", "gift": "プレゼント"}
+  },
+  {
+    "english": "You're welcome! Enjoy yourself at the party.",
+    "japanese": "どういたしまして！パーティーを楽しんでください。",
+    "words": {"you're welcome": "どういたしまして", "enjoy yourself": "楽しむ", "party": "パーティー"}
+  },
+  {
+    "english": "Good luck at your next game!",
+    "japanese": "次の試合、頑張ってください！",
+    "words": {"good luck": "頑張って・幸運を", "next": "次の", "game": "試合"}
+  },
+  {
+    "english": "See you at school tomorrow!",
+    "japanese": "また明日学校で！",
+    "words": {"see you": "またね", "school": "学校", "tomorrow": "明日"}
+  },
+  {
+    "english": "Welcome to our school!",
+    "japanese": "私たちの学校へようこそ！",
+    "words": {"welcome": "ようこそ", "school": "学校"}
+  },
+  # --- brave / kind / nervous / worry ---
+  {
+    "english": "She is kind to everyone in the class.",
+    "japanese": "彼女はクラスのみんなに親切です。",
+    "words": {"kind": "親切な", "everyone": "みんな", "class": "クラス"}
+  },
+  {
+    "english": "He is brave enough to speak in front of everyone.",
+    "javascript": "彼はみんなの前で話すのに十分なほど勇気があります。",
+    "japanese": "彼はみんなの前で話すのに十分なほど勇気があります。",
+    "words": {"brave": "勇敢な", "enough": "十分", "speak": "話す", "front": "前（in front of）", "everyone": "みんな"}
+  },
+  {
+    "english": "Don't worry! You can do it.",
+    "japanese": "心配しないで！あなたならできます。",
+    "words": {"don't": "するな", "worry": "心配する", "can": "できる"}
+  },
+  {
+    "english": "I was nervous before the swimming race.",
+    "japanese": "水泳のレースの前は緊張しました。",
+    "words": {"nervous": "緊張した", "before": "前に", "swimming": "水泳", "race": "レース"}
+  },
+  {
+    "english": "Be yourself and do your best!",
+    "japanese": "自分らしくいて、ベストを尽くしてください！",
+    "words": {"be": "いる", "yourself": "自分らしく", "best": "ベスト・最善"}
+  },
+  # --- online / live / come / go ---
+  {
+    "english": "I live in a small town near the sea.",
+    "japanese": "私は海の近くの小さな町に住んでいます。",
+    "words": {"live": "住む", "small": "小さな", "town": "町", "near": "近く", "sea": "海"}
+  },
+  {
+    "english": "They come to school by train every day.",
+    "japanese": "彼らは毎日電車で学校に来ます。",
+    "words": {"come": "来る", "school": "学校", "train": "電車", "every day": "毎日"}
+  },
+  {
+    "english": "We have an online lesson today.",
+    "japanese": "今日はオンラインの授業があります。",
+    "words": {"online": "オンラインの", "lesson": "授業", "today": "今日"}
+  },
+  # --- study / practice / hard / win / luck ---
+  {
+    "english": "I practice hard to win the basketball game.",
+    "japanese": "私はバスケットボールの試合に勝つために一生懸命練習します。",
+    "words": {"practice": "練習する", "hard": "一生懸命", "win": "勝つ", "basketball": "バスケットボール", "game": "試合"}
+  },
+  {
+    "english": "You need luck and skill to win.",
+    "japanese": "勝つには運と技術が必要です。",
+    "words": {"need": "必要", "luck": "運", "skill": "技術", "win": "勝つ"}
+  },
+  {
+    "english": "I study English and math after school every day.",
+    "japanese": "私は毎日放課後に英語と数学を勉強します。",
+    "words": {"study": "勉強する", "English": "英語", "math": "数学", "after school": "放課後", "every day": "毎日"}
+  },
+  # --- movie / poster / age / student / famous ---
+  {
+    "english": "My favorite movie character is brave and kind.",
+    "japanese": "私の好きな映画のキャラクターは勇敢で親切です。",
+    "words": {"favorite": "一番好きな", "movie": "映画", "character": "キャラクター", "brave": "勇敢な", "kind": "親切な"}
+  },
+  {
+    "english": "There is a movie poster on the wall of my room.",
+    "japanese": "私の部屋の壁に映画のポスターがあります。",
+    "words": {"movie": "映画", "poster": "ポスター", "wall": "壁", "room": "部屋"}
+  },
+  {
+    "english": "She is a famous student at our school.",
+    "japanese": "彼女は私たちの学校の有名な生徒です。",
+    "words": {"famous": "有名な", "student": "生徒", "school": "学校"}
+  },
+  {
+    "english": "How old are you? I mean, what is your age?",
+    "japanese": "何歳ですか？つまり、あなたの年齢は？",
+    "words": {"how old": "何歳", "age": "年齢", "mean": "つまり"}
+  },
+  # --- parent(s) / family / mother / father ---
+  {
+    "english": "My parents watch me play baseball every weekend.",
+    "japanese": "私の両親は毎週末、私の野球を応援してくれます。",
+    "words": {"parents": "両親", "watch": "見る", "baseball": "野球", "every": "毎", "weekend": "週末"}
+  },
+  {
+    "english": "My family visited Japan last summer.",
+    "japanese": "私の家族は去年の夏に日本を訪れました。",
+    "words": {"family": "家族", "visited": "訪れた", "Japan": "日本", "last": "去年の", "summer": "夏"}
+  },
+  {
+    "english": "My mother enjoys cooking Japanese food.",
+    "japanese": "私の母は日本食を作ることを楽しんでいます。",
+    "words": {"mother": "母", "enjoys": "楽しむ", "cooking": "料理すること", "Japanese": "日本の", "food": "食べ物"}
+  },
+  {
+    "english": "My father can speak some Chinese.",
+    "japanese": "私の父は少し中国語を話すことができます。",
+    "words": {"father": "父", "can": "できる", "speak": "話す", "some": "少し", "Chinese": "中国語"}
+  },
+  # --- many / a lot of / how many / one of ---
+  {
+    "english": "There are a lot of animals in this park.",
+    "japanese": "この公園にはたくさんの動物がいます。",
+    "words": {"lot": "たくさん（a lot of）", "animals": "動物", "park": "公園"}
+  },
+  {
+    "english": "How many students are in our class?",
+    "japanese": "私たちのクラスには何人の生徒がいますか？",
+    "words": {"how many": "何人", "students": "生徒", "class": "クラス"}
+  },
+  {
+    "english": "She is one of the best players on our team.",
+    "japanese": "彼女は私たちのチームで最も優れた選手の一人です。",
+    "words": {"one of": "～の一人", "best": "最も優れた", "players": "選手", "team": "チーム"}
+  },
+  # --- time expressions ---
+  {
+    "english": "I usually eat lunch at noon.",
+    "japanese": "私はたいてい正午に昼食をとります。",
+    "words": {"usually": "たいてい", "eat": "食べる", "lunch": "昼食", "noon": "正午"}
+  },
+  {
+    "english": "My lesson starts at 9 a.m.",
+    "japanese": "私の授業は午前9時に始まります。",
+    "words": {"lesson": "授業", "starts": "始まる", "a.m.": "午前"}
+  },
+  {
+    "english": "I go home at 3 p.m. after school.",
+    "japanese": "私は放課後、午後3時に家に帰ります。",
+    "words": {"go home": "帰る", "p.m.": "午後", "after school": "放課後"}
+  },
+  {
+    "english": "I met my friend at noon in front of the station.",
+    "japanese": "私は正午に駅の前で友達と会いました。",
+    "words": {"met": "会った", "friend": "友達", "noon": "正午", "front": "前（in front of）", "station": "駅"}
+  },
+  {
+    "english": "Basketball practice is in the afternoon, not the morning.",
+    "japanese": "バスケットボールの練習は午前ではなく午後にあります。",
+    "words": {"basketball": "バスケットボール", "practice": "練習", "afternoon": "午後", "morning": "午前・朝"}
+  },
+  # --- look / look at / enjoy oneself / same / experience ---
+  {
+    "english": "Look at that bird! It's so beautiful.",
+    "japanese": "あの鳥を見てください！とても美しいです。",
+    "words": {"look at": "見る", "bird": "鳥", "it's": "それは", "beautiful": "美しい"}
+  },
+  {
+    "english": "I enjoyed myself at the birthday party.",
+    "japanese": "私は誕生日パーティーで楽しみました。",
+    "words": {"enjoyed": "楽しんだ", "myself": "自分自身（enjoy oneself）", "birthday": "誕生日", "party": "パーティー"}
+  },
+  {
+    "english": "We have the same favorite song!",
+    "japanese": "私たちは同じ好きな歌を持っています！",
+    "words": {"same": "同じ", "favorite": "一番好きな", "song": "歌"}
+  },
+  {
+    "english": "This experience in Singapore was amazing.",
+    "japanese": "シンガポールでのこの体験は素晴らしかったです。",
+    "words": {"experience": "体験・経験", "Singapore": "シンガポール", "amazing": "素晴らしい"}
+  },
+  {
+    "english": "Actually, I have never tried eel before.",
+    "japanese": "実は、私はうなぎを食べたことがありません。",
+    "words": {"actually": "実は", "never": "一度も～ない", "tried": "試した", "eel": "うなぎ"}
+  },
+  # --- I see / That's / Sounds ---
+  {
+    "english": "I see. So you are a fan of rugby!",
+    "japanese": "なるほど。あなたはラグビーのファンなんですね！",
+    "words": {"I see": "なるほど", "fan": "ファン", "rugby": "ラグビー"}
+  },
+  {
+    "english": "That's a great idea for the party!",
+    "japanese": "それはパーティーのためのすばらしいアイデアですね！",
+    "words": {"that's": "それは", "great": "すばらしい", "idea": "アイデア", "party": "パーティー"}
+  },
+  {
+    "english": "Sounds fun! Let's go to the beach together.",
+    "japanese": "楽しそう！一緒にビーチに行きましょう。",
+    "words": {"sounds": "～そう", "fun": "楽しい", "beach": "ビーチ", "together": "一緒に"}
+  },
+  # --- How about you? / Can't / Excuse me ---
+  {
+    "english": "I love summer. How about you?",
+    "japanese": "私は夏が大好きです。あなたはどうですか？",
+    "words": {"love": "大好き", "summer": "夏", "how about you": "あなたはどうですか"}
+  },
+  {
+    "english": "I can't eat onion-shaped cookies. They look strange!",
+    "japanese": "私はタマネギの形をしたクッキーは食べられません。変な見た目です！",
+    "words": {"can't": "できない", "onion": "タマネギ", "shaped": "形の", "cookies": "クッキー", "strange": "変な"}
+  },
+  {
+    "english": "Excuse me, can I borrow your textbook?",
+    "japanese": "すみません、教科書を借りてもいいですか？",
+    "words": {"excuse me": "すみません", "borrow": "借りる", "textbook": "教科書"}
+  },
+  # --- stop / sad / eat / read / tell ---
+  {
+    "english": "Stop eating sweets before lunch!",
+    "japanese": "昼食の前にお菓子を食べるのはやめなさい！",
+    "words": {"stop": "やめる", "eating": "食べること", "sweets": "お菓子", "before": "前に", "lunch": "昼食"}
+  },
+  {
+    "english": "I feel sad when summer is over.",
+    "japanese": "夏が終わると悲しくなります。",
+    "words": {"feel": "感じる", "sad": "悲しい", "when": "のとき", "summer": "夏", "over": "終わって"}
+  },
+  {
+    "english": "He reads comic books at the bench in the park.",
+    "japanese": "彼は公園のベンチでマンガを読みます。",
+    "words": {"reads": "読む", "comic": "マンガ", "bench": "ベンチ", "park": "公園"}
+  },
+  {
+    "english": "She told me about her experience in India.",
+    "japanese": "彼女はインドでの体験を話してくれました。",
+    "words": {"told": "話した", "experience": "体験", "India": "インド"}
+  },
+  {
+    "english": "Please tell everyone about the swimming club.",
+    "japanese": "水泳クラブについてみんなに伝えてください。",
+    "words": {"tell": "伝える", "everyone": "みんな", "swimming": "水泳", "club": "クラブ"}
+  },
+  # --- Daniel / Golden Week / Singapore narrative ---
+  {
+    "english": "Daniel is coming to Japan during the Golden Week holidays.",
+    "japanese": "ダニエルはゴールデンウィーク中に日本に来ます。",
+    "words": {"Daniel": "ダニエル", "coming": "来る", "Japan": "日本", "Golden Week": "ゴールデンウィーク", "holidays": "休暇"}
+  },
+  {
+    "english": "He will arrive at the airport at 9 a.m.",
+    "japanese": "彼は午前9時に空港に到着する予定です。",
+    "words": {"arrive": "到着する", "airport": "空港", "a.m.": "午前"}
+  },
+  {
+    "english": "I'll meet Daniel at the station and go to the park.",
+    "japanese": "私はダニエルと駅で会って公園に行きます。",
+    "words": {"I'll": "私は～するつもり", "Daniel": "ダニエル", "station": "駅", "park": "公園"}
+  },
+  {
+    "english": "I'm excited to show Daniel around our town.",
+    "japanese": "ダニエルに私たちの町を案内するのがとても楽しみです。",
+    "words": {"excited": "わくわくしている", "show": "案内する", "Daniel": "ダニエル", "around": "あちこち", "town": "町"}
+  },
+  {
+    "english": "You'll love the shrine near our school, Daniel!",
+    "japanese": "ダニエル、学校の近くの神社がきっと気に入りますよ！",
+    "words": {"you'll": "あなたは～するでしょう", "love": "気に入る", "shrine": "神社", "school": "学校", "Daniel": "ダニエル"}
+  },
+  # --- communicate / language / dollar / meter ---
+  {
+    "english": "It is important to communicate in the local language.",
+    "japanese": "現地の言語でコミュニケーションをとることは大切です。",
+    "words": {"communicate": "コミュニケーションをとる", "local": "現地の", "language": "言語"}
+  },
+  {
+    "english": "I paid ten dollars for this T-shirt.",
+    "japanese": "私はこのTシャツに10ドル払いました。",
+    "words": {"paid": "払った", "ten": "10", "dollars": "ドル", "T-shirt": "Tシャツ"}
+  },
+  {
+    "english": "The swimming pool is 50 meters long.",
+    "japanese": "そのプールは50メートルの長さです。",
+    "words": {"swimming pool": "プール", "meters": "メートル", "long": "長い"}
+  },
+  # --- a.m. p.m. o'clock lunch afternoon ---
+  {
+    "english": "The party starts at seven o'clock in the evening.",
+    "japanese": "パーティーは夜7時に始まります。",
+    "words": {"party": "パーティー", "starts": "始まる", "o'clock": "時（ちょうど）", "evening": "夜"}
+  },
+  {
+    "english": "Let's have lunch together at noon.",
+    "japanese": "正午に一緒に昼食をとりましょう。",
+    "words": {"have": "食べる", "lunch": "昼食", "together": "一緒に", "noon": "正午"}
+  },
+  {
+    "english": "I go to the swimming pool in the afternoon on Sundays.",
+    "japanese": "私は日曜日の午後にプールに行きます。",
+    "words": {"swimming pool": "プール", "afternoon": "午後", "Sundays": "日曜日"}
+  },
+  # --- Sounds / long / fun / fine ---
+  {
+    "english": "It's a long song, but it's really fun to sing.",
+    "japanese": "長い歌ですが、歌うのがとても楽しいです。",
+    "words": {"long": "長い", "song": "歌", "fun": "楽しい", "sing": "歌う"}
+  },
+  {
+    "english": "Are you fine after the long flight?",
+    "japanese": "長いフライトの後、大丈夫ですか？",
+    "words": {"fine": "大丈夫な", "after": "後に", "long": "長い", "flight": "フライト"}
+  },
+  # --- someday / now / today / last ---
+  {
+    "english": "I want to visit India someday.",
+    "japanese": "私はいつかインドを訪れたいです。",
+    "words": {"visit": "訪れる", "India": "インド", "someday": "いつか"}
+  },
+  {
+    "english": "Now, let's look at the painting on the wall.",
+    "japanese": "では、壁にかかっている絵を見てみましょう。",
+    "words": {"now": "では・今", "look at": "見る", "painting": "絵", "wall": "壁"}
+  },
+  {
+    "english": "Last summer, we went to the beach every day.",
+    "japanese": "去年の夏、私たちは毎日ビーチに行きました。",
+    "words": {"last": "去年の", "summer": "夏", "beach": "ビーチ", "every day": "毎日"}
+  },
+  # --- around / after / front / under ---
+  {
+    "english": "There are many animals around the lake.",
+    "japanese": "湖の周りにたくさんの動物がいます。",
+    "words": {"many": "たくさんの", "animals": "動物", "around": "周りに", "lake": "湖"}
+  },
+  {
+    "english": "After school, I walk around the town with my friend.",
+    "japanese": "放課後、私は友達と町を歩き回ります。",
+    "words": {"after school": "放課後", "walk": "歩く", "around": "あちこち", "town": "町", "friend": "友達"}
+  },
+  {
+    "english": "There is a bench right in front of the shrine.",
+    "japanese": "神社のすぐ前にベンチがあります。",
+    "words": {"bench": "ベンチ", "right": "ちょうど", "front": "前（in front of）", "shrine": "神社"}
+  },
+  {
+    "english": "I found my notebook under the table.",
+    "japanese": "私はテーブルの下でノートを見つけました。",
+    "words": {"found": "見つけた", "notebook": "ノート", "under": "下に", "table": "テーブル"}
+  },
+  # --- more complex sentences ---
+  {
+    "english": "She is so good at swimming that she wins every race.",
+    "japanese": "彼女は水泳がとても得意なので、毎回レースで勝ちます。",
+    "words": {"so": "とても（so～that）", "good at": "得意", "swimming": "水泳", "wins": "勝つ", "every": "毎", "race": "レース"}
+  },
+  {
+    "english": "My teacher told us that learning a new language takes time but is very rewarding.",
+    "japanese": "先生は新しい言語を学ぶには時間がかかるが、とても充実していると言いました。",
+    "words": {"teacher": "先生", "told": "言った", "learning": "学ぶこと", "language": "言語", "time": "時間", "rewarding": "充実した"}
+  },
+  {
+    "english": "Although it was a rainy day, we went to the park and enjoyed ourselves.",
+    "japanese": "雨の日でしたが、私たちは公園に行って楽しみました。",
+    "words": {"although": "～にもかかわらず", "rainy": "雨の", "day": "日", "park": "公園", "enjoyed": "楽しんだ", "ourselves": "自分たちで"}
+  },
+  {
+    "english": "Not only does she study math, but she also loves art and comic books.",
+    "japanese": "彼女は数学を勉強するだけでなく、美術やマンガも大好きです。",
+    "words": {"not only": "だけでなく", "study": "勉強する", "math": "数学", "also": "また", "art": "美術", "comic": "マンガ"}
+  },
+  {
+    "english": "He has been a fan of Detective Conan since he was in elementary school.",
+    "japanese": "彼は小学生の頃から名探偵コナンのファンです。",
+    "words": {"has been": "ずっと～だ（現在完了）", "fan": "ファン", "Detective Conan": "名探偵コナン", "since": "～から", "elementary school": "小学校"}
+  },
+  {
+    "english": "If you visit Singapore, you should go to Merlion Park and try the seafood.",
+    "japanese": "シンガポールを訪れるなら、マーライオン公園に行ってシーフードを試すべきです。",
+    "words": {"visit": "訪れる", "Singapore": "シンガポール", "should": "すべき", "Merlion Park": "マーライオン公園", "try": "試す", "seafood": "シーフード"}
+  },
+  {
+    "english": "The more you practice English, the better you will speak it.",
+    "japanese": "英語を練習すればするほど、より上手に話せるようになります。",
+    "words": {"the more": "すればするほど", "practice": "練習する", "English": "英語", "better": "より上手に", "speak": "話す"}
+  },
+  {
+    "english": "I think that experiencing different cultures, such as those of India or Singapore, makes you more open-minded.",
+    "japanese": "インドやシンガポールなど、異文化を体験することで視野が広がると思います。",
+    "words": {"experiencing": "体験すること", "different": "異なる", "cultures": "文化", "India": "インド", "Singapore": "シンガポール", "open-minded": "視野が広い"}
+  },
+  {
+    "english": "What's the name of the song that your mother always sings in the kitchen?",
+    "japanese": "お母さんがいつもキッチンで歌っている歌の名前は何ですか？",
+    "words": {"what's": "何ですか", "name": "名前", "song": "歌", "mother": "母", "always": "いつも", "sings": "歌う", "kitchen": "キッチン"}
+  },
+  {
+    "english": "He was too nervous to speak in front of everyone at the school party.",
+    "japanese": "彼は学校のパーティーでみんなの前で話すのに緊張しすぎていました。",
+    "words": {"too": "～すぎる", "nervous": "緊張した", "speak": "話す", "front": "前（in front of）", "everyone": "みんな", "party": "パーティー"}
+  },
+  {
+    "english": "I found that the Merlion weighs over 70 tons.",
+    "japanese": "マーライオンは70トン以上の重さがあることがわかりました。",
+    "words": {"found": "わかった", "Merlion": "マーライオン", "weighs": "重さがある", "ton": "トン"}
+  },
+  {
+    "english": "When I visited Little India, I saw beautiful paintings on every wall.",
+    "japanese": "リトル・インディアを訪れたとき、あらゆる壁に美しい絵が描いてありました。",
+    "words": {"visited": "訪れた", "Little India": "リトル・インディア", "saw": "見た", "paintings": "絵", "every": "あらゆる", "wall": "壁"}
+  },
+  {
+    "english": "She asked me if I wanted to join the rugby club with her.",
+    "japanese": "彼女は私に一緒にラグビークラブに入らないかと聞きました。",
+    "words": {"asked": "聞いた", "join": "入る", "rugby": "ラグビー", "club": "クラブ"}
+  },
+  {
+    "english": "Because the rain was so heavy, we stayed in the classroom and read comics.",
+    "japanese": "雨がとても激しかったので、私たちは教室にいてマンガを読みました。",
+    "words": {"rain": "雨", "heavy": "激しい", "stayed": "いた", "classroom": "教室", "read": "読んだ", "comics": "マンガ"}
+  },
+  {
+    "english": "My parents are proud of me because I won the basketball game.",
+    "japanese": "私がバスケットボールの試合に勝ったので、両親は私を誇りに思っています。",
+    "words": {"parents": "両親", "proud": "誇りに思う", "won": "勝った", "basketball": "バスケットボール", "game": "試合"}
+  },
 ]
