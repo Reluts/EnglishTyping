@@ -55,7 +55,7 @@ function chooseQuestion() {
 
 function renderSentence() {
   const target = currentQ.english;
-  const pos = typed.length - 1;
+  const pos = typed.length;
   const el = document.getElementById('sentence');
   const now = Date.now();
 
