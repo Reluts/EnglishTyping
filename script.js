@@ -1,35 +1,4 @@
-let QUESTIONS = [
-  {
-    "english": "I like apples.",
-    "japanese": "私はりんごが好きです。",
-    "words": {
-      "i": "私",
-      "like": "好き",
-      "apples": "りんご"
-    }
-  },
-  {
-    "english": "She plays tennis every weekend.",
-    "japanese": "彼女は毎週末テニスをします。",
-    "words": {
-      "she": "彼女",
-      "plays": "する",
-      "tennis": "テニス",
-      "every": "毎",
-      "weekend": "週末"
-    }
-  },
-  {
-    "english": "They study English at school.",
-    "japanese": "彼らは学校で英語を勉強します。",
-    "words": {
-      "they": "彼ら",
-      "study": "勉強する",
-      "english": "英語",
-      "at": "で",
-      "school": "学校"
-    }
-  }];
+let QUESTIONS = [];
 
 let typed = "", score = 0, combo = 0, mistakes = 0, completedQ = 0, completedChars = 0;
 let history = [], recentQ = [];
@@ -67,19 +36,8 @@ function playClear() {
 }
 
 async function loadQuestions() {
-  try {
-    const res = await fetch('./questions.json');
-
-    if (!res.ok) return;
-
-    const data = await res.json();
-
-    if (Array.isArray(data) && data.length > 0) {
-      QUESTIONS = data;
-    }
-  } catch (e) {
-    return;
-  }
+  const res = await fetch('./questions.json');
+  QUESTIONS = await res.json();
 
   currentQ = chooseQuestion();
   renderSentence();
@@ -162,18 +120,7 @@ function handleChar(char) {
   const target = currentQ.english;
   if (typed.length >= target.length) return;
 
-  let expected = target[typed.length];
-
-  if (char === ' ' && expected !== ' ') return;
-
-  if (expected === ' ' && char !== ' ') {
-    typed += ' ';
-    playTone(1500, 0.015);
-    if (typed.length >= target.length) finishQuestion();
-    return;
-  }
-
-  expected = target[typed.length];
+  const expected = target[typed.length];
 
   if (char === expected) {
     typed += char;
@@ -218,60 +165,27 @@ function startGame() {
   startTime = Date.now();
 }
 
+document.getElementById('hidden-input').addEventListener('input', (e) => {
+  const val = e.target.value;
+  if (!val) return;
 
-document.getElementById('click-to-start').addEventListener('click', () => {
-  audioCtx.resume();
-  startGame();
-});
+  const char = val[val.length - 1];
+  e.target.value = "";
 
-document.addEventListener('keydown', (e) => {
-  if (!started) return;
-
-  const target = currentQ.english;
-  if (typed.length >= target.length) return;
-
-  if (e.key === 'Shift' || e.key === 'Control' || e.key === 'Alt' || e.key === 'Meta') return;
-  if (e.key === 'Escape') return;
-
-  const expected = target[typed.length];
-
-  if (e.key === ' ') {
-    if (expected === ' ') {
-      typed += ' ';
-      playTone(1500, 0.015);
-      renderSentence();
-      updateStats();
-      if (typed === target) finishQuestion();
-    }
-    return;
-  }
-
-  if (e.key.length !== 1) return;
-
-  // ★ここが本体
-  if (expected === ' ') {
-    typed += ' ';
-  }
-
-  const nextExpected = target[typed.length];
-
-  if (e.key === nextExpected) {
-    typed += e.key;
-    playTone(1500, 0.015);
-    if (typed === target) finishQuestion();
-  } else {
-    playTone(250, 0.04);
-    combo = 0;
-    mistakes++;
-    mistakeFlashUntil = Date.now() + 250;
-  }
-
-  renderSentence();
-  updateStats();
+  handleChar(char);
 });
 
 document.getElementById('app').addEventListener('click', () => {
   if (started) document.getElementById('hidden-input').focus();
+});
+
+window.addEventListener('load', async () => {
+  await loadQuestions();
+
+  audioCtx.resume();
+  startGame();
+
+  document.getElementById('hidden-input').focus();
 });
 
 loadQuestions();
