@@ -55,7 +55,7 @@ function chooseQuestion() {
 
 function renderSentence() {
   const target = currentQ.english;
-  const pos = typed.length;
+  const pos = typed.length - 1;
   const el = document.getElementById('sentence');
   const now = Date.now();
 
@@ -118,39 +118,37 @@ function handleKey(key) {
   if (!started) return;
 
   const target = currentQ.english;
+  if (typed.length >= target.length) return;
+
   const expected = target[typed.length];
 
-  // スペース処理
   if (expected === ' ') {
-    if (key !== ' ') {
-      // スペース無視せず「スキップ」扱いにする
-      typed += ' ';
-    } else {
+    if (key === ' ') {
       typed += ' ';
       playTone(1500, 0.015);
       renderSentence();
       updateStats();
       return;
     }
+
+    typed += ' ';
   } else {
     if (key === ' ') return;
   }
 
-  // ここで必ず1文字だけ処理
-  const actualExpected = target[typed.length];
+  const newExpected = target[typed.length];
 
-  if (key === actualExpected) {
+  if (key === newExpected) {
     typed += key;
     playTone(1500, 0.015);
+
+    if (typed === target) finishQuestion();
   } else {
     playTone(250, 0.04);
     combo = 0;
     mistakes++;
     mistakeFlashUntil = Date.now() + 250;
-    typed += key; // ←ズレ防止で「進める」
   }
-
-  if (typed === target) finishQuestion();
 
   renderSentence();
   updateStats();
