@@ -1,4 +1,35 @@
-let QUESTIONS = [];
+let QUESTIONS = [
+  {
+    "english": "I like apples.",
+    "japanese": "私はりんごが好きです。",
+    "words": {
+      "i": "私",
+      "like": "好き",
+      "apples": "りんご"
+    }
+  },
+  {
+    "english": "She plays tennis every weekend.",
+    "japanese": "彼女は毎週末テニスをします。",
+    "words": {
+      "she": "彼女",
+      "plays": "する",
+      "tennis": "テニス",
+      "every": "毎",
+      "weekend": "週末"
+    }
+  },
+  {
+    "english": "They study English at school.",
+    "japanese": "彼らは学校で英語を勉強します。",
+    "words": {
+      "they": "彼ら",
+      "study": "勉強する",
+      "english": "英語",
+      "at": "で",
+      "school": "学校"
+    }
+  }];
 
 let typed = "", score = 0, combo = 0, mistakes = 0, completedQ = 0, completedChars = 0;
 let history = [], recentQ = [];
@@ -36,8 +67,19 @@ function playClear() {
 }
 
 async function loadQuestions() {
-  const res = await fetch('./questions.json');
-  QUESTIONS = await res.json();
+  try {
+    const res = await fetch('./questions.json');
+
+    if (!res.ok) return;
+
+    const data = await res.json();
+
+    if (Array.isArray(data) && data.length > 0) {
+      QUESTIONS = data;
+    }
+  } catch (e) {
+    return;
+  }
 
   currentQ = chooseQuestion();
   renderSentence();
@@ -185,14 +227,13 @@ document.getElementById('click-to-start').addEventListener('click', () => {
 document.addEventListener('keydown', (e) => {
   if (!started) return;
 
-  if (e.key === 'Shift' || e.key === 'Control' || e.key === 'Alt' || e.key === 'Meta') return;
-
   const target = currentQ.english;
   if (typed.length >= target.length) return;
 
-  let expected = target[typed.length];
-
+  if (e.key === 'Shift' || e.key === 'Control' || e.key === 'Alt' || e.key === 'Meta') return;
   if (e.key === 'Escape') return;
+
+  const expected = target[typed.length];
 
   if (e.key === ' ') {
     if (expected === ' ') {
@@ -201,21 +242,20 @@ document.addEventListener('keydown', (e) => {
       renderSentence();
       updateStats();
       if (typed === target) finishQuestion();
-    } else {
-      e.preventDefault();
     }
     return;
   }
 
   if (e.key.length !== 1) return;
 
+  // ★ここが本体
   if (expected === ' ') {
     typed += ' ';
   }
 
-  expected = target[typed.length];
+  const nextExpected = target[typed.length];
 
-  if (e.key === expected) {
+  if (e.key === nextExpected) {
     typed += e.key;
     playTone(1500, 0.015);
     if (typed === target) finishQuestion();
