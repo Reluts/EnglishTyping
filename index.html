@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Typing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="app">
+  <div id="title">ENGLISH TYPING</div>
+
+  <div id="stats">
+    <div>Score      : <span id="s-score">0</span></div>
+    <div>Combo      : <span id="s-combo">0</span></div>
+    <div>WPM        : <span id="s-wpm">0</span></div>
+    <div>Accuracy   : <span id="s-acc">100.0%</span></div>
+    <div>Mistakes   : <span id="s-mis">0</span></div>
+    <div>Questions  : <span id="s-q">0</span></div>
+  </div>
+
+  <div id="combo-badge">
+    <div style="font-size:11px;letter-spacing:1px">COMBO</div>
+    <div id="combo-big">0</div>
+  </div>
+
+  <div id="typing-area">
+    <div id="sentence"></div>
+  </div>
+
+  <div id="input-hint">
+    クリックしてタイピング開始 / Click to start typing
+  </div>
+
+  <div id="log-area">
+    <div id="log-eng"></div>
+    <div id="log-jp"></div>
+    <div id="log-words"></div>
+  </div>
+
+  <input
+    id="hidden-input"
+    type="text"
+    autocomplete="off"
+    autocorrect="off"
+    autocapitalize="off"
+    spellcheck="false"
+  >
+
+  <div id="click-to-start">
+    <button class="start-btn">▶ START TYPING</button>
+    <div class="start-sub">Click or tap to begin</div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

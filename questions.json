@@ -1,0 +1,364 @@
+[
+  {
+    "english": "I like apples.",
+    "japanese": "私はりんごが好きです。",
+    "words": {
+      "i": "私",
+      "like": "好き",
+      "apples": "りんご"
+    }
+  },
+  {
+    "english": "She plays tennis every weekend.",
+    "japanese": "彼女は毎週末テニスをします。",
+    "words": {
+      "she": "彼女",
+      "plays": "する",
+      "tennis": "テニス",
+      "every": "毎",
+      "weekend": "週末"
+    }
+  },
+  {
+    "english": "They study English at school.",
+    "japanese": "彼らは学校で英語を勉強します。",
+    "words": {
+      "they": "彼ら",
+      "study": "勉強する",
+      "english": "英語",
+      "at": "で",
+      "school": "学校"
+    }
+  },
+  {
+    "english": "This book is very interesting.",
+    "japanese": "この本はとても面白いです。",
+    "words": {
+      "this": "この",
+      "book": "本",
+      "is": "です",
+      "very": "とても",
+      "interesting": "面白い"
+    }
+  },
+  {
+    "english": "My brother likes soccer.",
+    "japanese": "私の兄はサッカーが好きです。",
+    "words": {
+      "my": "私の",
+      "brother": "兄",
+      "likes": "好き",
+      "soccer": "サッカー"
+    }
+  },
+  {
+    "english": "We eat breakfast every morning.",
+    "japanese": "私たちは毎朝朝食を食べます。",
+    "words": {
+      "we": "私たち",
+      "eat": "食べる",
+      "breakfast": "朝食",
+      "every": "毎",
+      "morning": "朝"
+    }
+  },
+  {
+    "english": "The cat is under the table.",
+    "japanese": "その猫はテーブルの下にいます。",
+    "words": {
+      "the": "その",
+      "cat": "猫",
+      "is": "いる",
+      "under": "下に",
+      "table": "テーブル"
+    }
+  },
+  {
+    "english": "I have a new computer.",
+    "japanese": "私は新しいコンピューターを持っています。",
+    "words": {
+      "i": "私",
+      "have": "持っている",
+      "a": "一つの",
+      "new": "新しい",
+      "computer": "コンピューター"
+    }
+  },
+  {
+    "english": "He goes to the library after school.",
+    "japanese": "彼は放課後に図書館へ行きます。",
+    "words": {
+      "he": "彼",
+      "goes": "行く",
+      "to": "へ",
+      "the": "その",
+      "library": "図書館",
+      "after": "後に",
+      "school": "学校"
+    }
+  },
+  {
+    "english": "The weather is sunny today.",
+    "japanese": "今日は晴れです。",
+    "words": {
+      "the": "その",
+      "weather": "天気",
+      "is": "です",
+      "sunny": "晴れた",
+      "today": "今日"
+    }
+  },
+  {
+    "english": "She has two dogs.",
+    "japanese": "彼女は2匹の犬を飼っています。",
+    "words": {
+      "she": "彼女",
+      "has": "持っている",
+      "two": "2",
+      "dogs": "犬"
+    }
+  },
+  {
+    "english": "I drink water every day.",
+    "japanese": "私は毎日水を飲みます。",
+    "words": {
+      "i": "私",
+      "drink": "飲む",
+      "water": "水",
+      "every": "毎",
+      "day": "日"
+    }
+  },
+  {
+    "english": "They are watching TV now.",
+    "japanese": "彼らは今テレビを見ています。",
+    "words": {
+      "they": "彼ら",
+      "are": "している",
+      "watching": "見ている",
+      "tv": "テレビ",
+      "now": "今"
+    }
+  },
+  {
+    "english": "My father drives a car.",
+    "japanese": "私の父は車を運転します。",
+    "words": {
+      "my": "私の",
+      "father": "父",
+      "drives": "運転する",
+      "a": "一台の",
+      "car": "車"
+    }
+  },
+  {
+    "english": "The park is near my house.",
+    "japanese": "公園は私の家の近くにあります。",
+    "words": {
+      "the": "その",
+      "park": "公園",
+      "is": "ある",
+      "near": "近く",
+      "my": "私の",
+      "house": "家"
+    }
+  },
+  {
+    "english": "We enjoy music together.",
+    "japanese": "私たちは一緒に音楽を楽しみます。",
+    "words": {
+      "we": "私たち",
+      "enjoy": "楽しむ",
+      "music": "音楽",
+      "together": "一緒に"
+    }
+  },
+  {
+    "english": "The train arrives at noon.",
+    "japanese": "その電車は正午に到着します。",
+    "words": {
+      "the": "その",
+      "train": "電車",
+      "arrives": "到着する",
+      "at": "に",
+      "noon": "正午"
+    }
+  },
+  {
+    "english": "I read a newspaper every morning.",
+    "japanese": "私は毎朝新聞を読みます。",
+    "words": {
+      "i": "私",
+      "read": "読む",
+      "a": "一つの",
+      "newspaper": "新聞",
+      "every": "毎",
+      "morning": "朝"
+    }
+  },
+  {
+    "english": "She is cooking dinner.",
+    "japanese": "彼女は夕食を作っています。",
+    "words": {
+      "she": "彼女",
+      "is": "している",
+      "cooking": "料理する",
+      "dinner": "夕食"
+    }
+  },
+  {
+    "english": "The students are quiet.",
+    "japanese": "その生徒たちは静かです。",
+    "words": {
+      "the": "その",
+      "students": "生徒たち",
+      "are": "です",
+      "quiet": "静かな"
+    }
+  },
+  {
+    "english": "I played soccer yesterday.",
+    "japanese": "私は昨日サッカーをしました。",
+    "words": {
+      "i": "私",
+      "played": "した",
+      "soccer": "サッカー",
+      "yesterday": "昨日"
+    }
+  },
+  {
+    "english": "She is reading a book now.",
+    "japanese": "彼女は今本を読んでいます。",
+    "words": {
+      "she": "彼女",
+      "is": "〜している",
+      "reading": "読んでいる",
+      "a": "一つの",
+      "book": "本",
+      "now": "今"
+    }
+  },
+  {
+    "english": "They were watching TV last night.",
+    "japanese": "彼らは昨夜テレビを見ていました。",
+    "words": {
+      "they": "彼ら",
+      "were": "〜していた",
+      "watching": "見ている",
+      "tv": "テレビ",
+      "last": "この前の",
+      "night": "夜"
+    }
+  },
+  {
+    "english": "We will visit Kyoto next month.",
+    "japanese": "私たちは来月京都を訪れる予定です。",
+    "words": {
+      "we": "私たち",
+      "will": "〜する予定",
+      "visit": "訪れる",
+      "kyoto": "京都",
+      "next": "次の",
+      "month": "月"
+    }
+  },
+  {
+    "english": "My brother is cooking dinner.",
+    "japanese": "私の兄は夕食を作っています。",
+    "words": {
+      "my": "私の",
+      "brother": "兄",
+      "is": "〜している",
+      "cooking": "料理している",
+      "dinner": "夕食"
+    }
+  },
+  {
+    "english": "The cat was sleeping under the table.",
+    "japanese": "その猫はテーブルの下で寝ていました。",
+    "words": {
+      "the": "その",
+      "cat": "猫",
+      "was": "〜していた",
+      "sleeping": "寝ている",
+      "under": "〜の下",
+      "table": "テーブル"
+    }
+  },
+  {
+    "english": "He cleaned his room this morning.",
+    "japanese": "彼は今朝自分の部屋を掃除しました。",
+    "words": {
+      "he": "彼",
+      "cleaned": "掃除した",
+      "his": "彼の",
+      "room": "部屋",
+      "this": "この",
+      "morning": "朝"
+    }
+  },
+  {
+    "english": "I am studying English every day.",
+    "japanese": "私は毎日英語を勉強しています。",
+    "words": {
+      "i": "私",
+      "am": "〜している",
+      "studying": "勉強している",
+      "english": "英語",
+      "every": "毎",
+      "day": "日"
+    }
+  },
+  {
+    "english": "They will buy a new car soon.",
+    "japanese": "彼らはもうすぐ新しい車を買うでしょう。",
+    "words": {
+      "they": "彼ら",
+      "will": "〜するだろう",
+      "buy": "買う",
+      "a": "一つの",
+      "new": "新しい",
+      "car": "車",
+      "soon": "もうすぐ"
+    }
+  },
+  {
+    "english": "She was listening to music when I called.",
+    "japanese": "私が電話したとき、彼女は音楽を聴いていました。",
+    "words": {
+      "she": "彼女",
+      "was": "〜していた",
+      "listening": "聴いている",
+      "to": "〜を",
+      "music": "音楽",
+      "when": "〜したとき",
+      "i": "私",
+      "called": "電話した"
+    }
+  },
+  {
+    "english": "The students are writing essays.",
+    "japanese": "生徒たちは作文を書いています。",
+    "words": {
+      "the": "その",
+      "students": "生徒たち",
+      "are": "〜している",
+      "writing": "書いている",
+      "essays": "作文"
+    }
+  },
+  {
+    "english": "We went to the beach during summer vacation.",
+    "japanese": "私たちは夏休みに海へ行きました。",
+    "words": {
+      "we": "私たち",
+      "went": "行った",
+      "to": "〜へ",
+      "the": "その",
+      "beach": "海岸",
+      "during": "〜の間",
+      "summer": "夏",
+      "vacation": "休暇"
+    }
+  }
+]
