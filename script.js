@@ -182,14 +182,52 @@ document.getElementById('click-to-start').addEventListener('click', () => {
   startGame();
 });
 
-document.getElementById('hidden-input').addEventListener('input', (e) => {
-  const val = e.target.value;
-  if (!val) return;
+document.addEventListener('keydown', (e) => {
+  if (!started) return;
 
-  const char = val[val.length - 1];
-  e.target.value = "";
+  if (e.key === 'Shift' || e.key === 'Control' || e.key === 'Alt' || e.key === 'Meta') return;
 
-  handleChar(char);
+  const target = currentQ.english;
+  if (typed.length >= target.length) return;
+
+  let expected = target[typed.length];
+
+  if (e.key === 'Escape') return;
+
+  if (e.key === ' ') {
+    if (expected === ' ') {
+      typed += ' ';
+      playTone(1500, 0.015);
+      renderSentence();
+      updateStats();
+      if (typed === target) finishQuestion();
+    } else {
+      e.preventDefault();
+    }
+    return;
+  }
+
+  if (e.key.length !== 1) return;
+
+  if (expected === ' ') {
+    typed += ' ';
+  }
+
+  expected = target[typed.length];
+
+  if (e.key === expected) {
+    typed += e.key;
+    playTone(1500, 0.015);
+    if (typed === target) finishQuestion();
+  } else {
+    playTone(250, 0.04);
+    combo = 0;
+    mistakes++;
+    mistakeFlashUntil = Date.now() + 250;
+  }
+
+  renderSentence();
+  updateStats();
 });
 
 document.getElementById('app').addEventListener('click', () => {
